@@ -10,7 +10,7 @@
       "id": 1,
       "title": "Hello!",
       "artist": "Super Simple Songs",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https:/open.spotify.com/embed/track/0YrXrIHJhgN7xr1YiQcLnF?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https:/open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
           "en": "Hello, hello, hello, how are you?",
@@ -78,8 +78,8 @@
     {
       "id": 2,
       "title": "Hello Song",
-      "artist": "The Kiboomers",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2takcwgfvGfZJy1D9ekXWq?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "artist": "Emu Kids",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3pN321e9ZpXroyeyovmRtf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
           "en": "Hello, hello, hello, how are you?",
@@ -146,9 +146,9 @@
     },
     {
       "id": 3,
-      "title": "Head, Shoulders, Knees & Toes",
+      "title": "Head Shoulders Knees & Toes (Speeding Up)",
       "artist": "Super Simple Songs",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0jvGO5M27/4tXLx2TkRZ?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0HJgMXXDgygdoLLqLlkzSI?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
           "en": "Head, shoulders, knees and toes,",
@@ -208,8 +208,8 @@
     {
       "id": 4,
       "title": "One Little Finger",
-      "artist": "Super Simple Songs",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3f2qQqWz2VJe5H7zKQc85e?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "artist": "Super Simple Songs, Noodle & Pals",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4jKlouPlVZOkuRwyBpgLPN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
           "en": "One little finger, one little finger, one little finger,",
@@ -278,7 +278,7 @@
       "id": 5,
       "title": "Bye Bye Goodbye",
       "artist": "Super Simple Songs",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5YyoEbWDGzLkDM5v0aQFvY?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0FbsYlb1ZMgTICWE3ILQGt?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
           "en": "Bye bye goodbye, I'm gonna go.",
@@ -347,7 +347,7 @@
       "id": 6,
       "title": "Jesus Loves Me",
       "artist": "Super Simple Songs",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4KWRhZEUkrTCqBKDZHbBs6?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
           "en": "Jesus loves me, this I know.",
@@ -589,6 +589,63 @@
         }
       ],
       "tips": "Olhe pela janela todo dia e descreva o tempo em inglês: 'It's sunny!' ou 'It's rainy!' Torne isso uma rotina matinal antes do café!"
+    },
+    {
+      "id": 10,
+      "title": "Open Shut Them",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6jNrjFCd9h9jBdGomb7LRN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        { "en": "Open shut them, open shut them,", "pt": "Abra feche, abra feche," },
+        { "en": "Give a little clap, clap, clap.", "pt": "Dê uma palminha, clap, clap, clap." },
+        { "en": "Open shut them, open shut them,", "pt": "Abra feche, abra feche," },
+        { "en": "Put them in your lap, lap, lap.", "pt": "Coloque no seu colo, colo, colo." }
+      ],
+      "vocab": [
+        { "emoji": "🖐️", "en": "open", "pt": "abrir" },
+        { "emoji": "✊", "en": "shut", "pt": "fechar" },
+        { "emoji": "👏", "en": "clap", "pt": "palma" },
+        { "emoji": "🦵", "en": "lap", "pt": "colo" }
+      ],
+      "tips": "Faça os gestos junto com seu filho: abra e feche as mãos, bata palmas e coloque as mãos no colo. Ótima para coordenação motora e seguir instruções!"
+    },
+    {
+      "id": 11,
+      "title": "Twinkle Twinkle Little Star",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3N6kzbnfpTPB5J9NAGc1rU?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        { "en": "Twinkle, twinkle, little star,", "pt": "Brilha, brilha, estrelinha," },
+        { "en": "How I wonder what you are.", "pt": "Como eu me pergunto o que você é." },
+        { "en": "Up above the world so high,", "pt": "Lá no alto do mundo tão alto," },
+        { "en": "Like a diamond in the sky.", "pt": "Como um diamante no céu." }
+      ],
+      "vocab": [
+        { "emoji": "⭐", "en": "star", "pt": "estrela" },
+        { "emoji": "✨", "en": "twinkle", "pt": "brilhar" },
+        { "emoji": "💎", "en": "diamond", "pt": "diamante" },
+        { "emoji": "🌌", "en": "sky", "pt": "céu" }
+      ],
+      "tips": "Cante antes de dormir apontando para o céu ou para estrelas de brinquedo. Uma música clássica que toda criança adora e ajuda a relaxar!"
+    },
+    {
+      "id": 12,
+      "title": "Seven Steps",
+      "artist": "Super Simple Songs, Noodle & Pals",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6GhrqahB93lhCrQce30xo8?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        { "en": "One, two, three, four, five, six, seven.", "pt": "Um, dois, três, quatro, cinco, seis, sete." },
+        { "en": "One, two, three, four, five, six, seven.", "pt": "Um, dois, três, quatro, cinco, seis, sete." },
+        { "en": "Seven, six, five, four, three, two, one.", "pt": "Sete, seis, cinco, quatro, três, dois, um." },
+        { "en": "Seven, six, five, four, three, two, one.", "pt": "Sete, seis, cinco, quatro, três, dois, um." }
+      ],
+      "vocab": [
+        { "emoji": "1️⃣", "en": "one", "pt": "um" },
+        { "emoji": "3️⃣", "en": "three", "pt": "três" },
+        { "emoji": "5️⃣", "en": "five", "pt": "cinco" },
+        { "emoji": "7️⃣", "en": "seven", "pt": "sete" }
+      ],
+      "tips": "Conte os passos em inglês andando pela casa! Dê sete passos contando em inglês, depois conte ao contrário. Perfeita para aprender números brincando!"
     }
   ]
 }
