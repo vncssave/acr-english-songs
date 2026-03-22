@@ -1,0 +1,594 @@
+{
+  "class": "K3",
+  "classLabel": "K3 — Educação Infantil",
+  "schoolName": "Academy Christ Realm",
+  "schoolLogo": "logo-acr.png",
+  "intro": "Essas são as músicas que estamos aprendendo nas aulas de inglês! Clique em cada música para ver a letra, tradução e dicas para praticar em casa.",
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/58Am0OXhn88HhBgC4FOlQ8",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Hello!",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0YrXrIHJhgN7xr1YiQcLnF?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Hello, hello, hello, how are you?",
+          "pt": "Olá, olá, olá, como você está?"
+        },
+        {
+          "en": "Hello, hello, hello, how are you?",
+          "pt": "Olá, olá, olá, como você está?"
+        },
+        {
+          "en": "I'm good! I'm great! I'm wonderful!",
+          "pt": "Estou bem! Estou ótimo! Estou maravilhoso!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Hello, hello, hello, how are you?",
+          "pt": "Olá, olá, olá, como você está?"
+        },
+        {
+          "en": "Hello, hello, hello, how are you?",
+          "pt": "Olá, olá, olá, como você está?"
+        },
+        {
+          "en": "I'm tired. I'm hungry. I'm not so good.",
+          "pt": "Estou cansado. Estou com fome. Não estou muito bem."
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👋",
+          "en": "Hello",
+          "pt": "Olá"
+        },
+        {
+          "emoji": "😊",
+          "en": "Good",
+          "pt": "Bem"
+        },
+        {
+          "emoji": "🌟",
+          "en": "Great",
+          "pt": "Ótimo"
+        },
+        {
+          "emoji": "✨",
+          "en": "Wonderful",
+          "pt": "Maravilhoso"
+        },
+        {
+          "emoji": "😴",
+          "en": "Tired",
+          "pt": "Cansado"
+        },
+        {
+          "emoji": "🍽️",
+          "en": "Hungry",
+          "pt": "Com fome"
+        }
+      ],
+      "tips": "Toda manhã, pergunte ao seu filho \"How are you?\" e incentive-o a responder com \"I'm good!\", \"I'm great!\" ou \"I'm wonderful!\". Você também pode dramatizar as emoções — fazer cara de cansado para \"tired\" e esfregar a barriga para \"hungry\"."
+    },
+    {
+      "id": 2,
+      "title": "Hello Song",
+      "artist": "The Kiboomers",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2takcwgfvGfZJy1D9ekXWq?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Hello, hello, hello, how are you?",
+          "pt": "Olá, olá, olá, como você está?"
+        },
+        {
+          "en": "Hello, hello, hello, how are you?",
+          "pt": "Olá, olá, olá, como você está?"
+        },
+        {
+          "en": "It's so nice to see you.",
+          "pt": "É tão bom te ver."
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Goodbye, goodbye, goodbye, see you soon.",
+          "pt": "Adeus, adeus, adeus, até logo."
+        },
+        {
+          "en": "Goodbye, goodbye, goodbye, see you soon.",
+          "pt": "Adeus, adeus, adeus, até logo."
+        },
+        {
+          "en": "I hope you have a wonderful day!",
+          "pt": "Espero que você tenha um dia maravilhoso!"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👋",
+          "en": "Hello",
+          "pt": "Olá"
+        },
+        {
+          "emoji": "👀",
+          "en": "See",
+          "pt": "Ver"
+        },
+        {
+          "emoji": "😊",
+          "en": "Nice",
+          "pt": "Legal/Bom"
+        },
+        {
+          "emoji": "👋",
+          "en": "Goodbye",
+          "pt": "Adeus"
+        },
+        {
+          "emoji": "⏰",
+          "en": "Soon",
+          "pt": "Em breve"
+        },
+        {
+          "emoji": "🤞",
+          "en": "Hope",
+          "pt": "Espero"
+        }
+      ],
+      "tips": "Use esta música como rotina de saudação e despedida. Toda vez que seu filho acordar, cante juntos \"Hello!\" e antes de dormir cante \"Goodbye!\"."
+    },
+    {
+      "id": 3,
+      "title": "Head, Shoulders, Knees & Toes",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0jvGO5M27/4tXLx2TkRZ?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Head, shoulders, knees and toes,",
+          "pt": "Cabeça, ombros, joelhos e dedos dos pés,"
+        },
+        {
+          "en": "Knees and toes.",
+          "pt": "Joelhos e dedos dos pés."
+        },
+        {
+          "en": "Head, shoulders, knees and toes,",
+          "pt": "Cabeça, ombros, joelhos e dedos dos pés,"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Eyes and ears and mouth and nose.",
+          "pt": "Olhos e orelhas e boca e nariz."
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🗣️",
+          "en": "Head",
+          "pt": "Cabeça"
+        },
+        {
+          "emoji": "💪",
+          "en": "Shoulders",
+          "pt": "Ombros"
+        },
+        {
+          "emoji": "🦵",
+          "en": "Knees",
+          "pt": "Joelhos"
+        },
+        {
+          "emoji": "🦶",
+          "en": "Toes",
+          "pt": "Dedos dos pés"
+        },
+        {
+          "emoji": "👀",
+          "en": "Eyes",
+          "pt": "Olhos"
+        },
+        {
+          "emoji": "👂",
+          "en": "Ears",
+          "pt": "Orelhas"
+        }
+      ],
+      "tips": "Aponte para cada parte do corpo enquanto canta. Encorage seu filho a fazer o mesmo e a cantar com você. Você pode fazer movimentos lentos e depois mais rápidos!"
+    },
+    {
+      "id": 4,
+      "title": "One Little Finger",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3f2qQqWz2VJe5H7zKQc85e?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "One little finger, one little finger, one little finger,",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno,"
+        },
+        {
+          "en": "Tap, tap, tap.",
+          "pt": "Bate, bate, bate."
+        },
+        {
+          "en": "Point up high, point down low.",
+          "pt": "Aponte para o alto, aponte para baixo."
+        },
+        {
+          "en": "Point to the sky, point to the ground.",
+          "pt": "Aponte para o céu, aponte para o chão."
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "One little finger, one little finger, one little finger,",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno,"
+        },
+        {
+          "en": "Tap, tap, tap.",
+          "pt": "Bate, bate, bate."
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🖐️",
+          "en": "Finger",
+          "pt": "Dedo"
+        },
+        {
+          "emoji": "👆",
+          "en": "Point",
+          "pt": "Apontar"
+        },
+        {
+          "emoji": "✋",
+          "en": "Tap",
+          "pt": "Bater"
+        },
+        {
+          "emoji": "🌤️",
+          "en": "Sky",
+          "pt": "Céu"
+        },
+        {
+          "emoji": "🌍",
+          "en": "Ground",
+          "pt": "Chão"
+        },
+        {
+          "emoji": "📍",
+          "en": "Up",
+          "pt": "Para cima"
+        }
+      ],
+      "tips": "Faça os movimentos ao lado de seu filho. Use seus dedos para apontar para cima, para baixo, para o céu e para o chão. Repita a música várias vezes para que seu filho memorize os movimentos."
+    },
+    {
+      "id": 5,
+      "title": "Bye Bye Goodbye",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5YyoEbWDGzLkDM5v0aQFvY?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Bye bye goodbye, I'm gonna go.",
+          "pt": "Tchau tchau adeus, vou indo."
+        },
+        {
+          "en": "Bye bye goodbye, I'm gonna go.",
+          "pt": "Tchau tchau adeus, vou indo."
+        },
+        {
+          "en": "See you later, I'm gonna go.",
+          "pt": "Até mais tarde, vou indo."
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Bye bye goodbye, see you soon.",
+          "pt": "Tchau tchau adeus, até logo."
+        },
+        {
+          "en": "Bye bye goodbye, see you soon.",
+          "pt": "Tchau tchau adeus, até logo."
+        },
+        {
+          "en": "See you later, see you soon!",
+          "pt": "Até mais tarde, até logo!"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👋",
+          "en": "Bye",
+          "pt": "Tchau"
+        },
+        {
+          "emoji": "👋",
+          "en": "Goodbye",
+          "pt": "Adeus"
+        },
+        {
+          "emoji": "🚶",
+          "en": "Go",
+          "pt": "Ir"
+        },
+        {
+          "emoji": "⏰",
+          "en": "See you later",
+          "pt": "Até mais tarde"
+        },
+        {
+          "emoji": "🤞",
+          "en": "Soon",
+          "pt": "Em breve"
+        },
+        {
+          "emoji": "😊",
+          "en": "See you",
+          "pt": "Até logo"
+        }
+      ],
+      "tips": "Acene despedidas enquanto canta com seu filho. Você pode cantá-la quando se despedir dele na escola ou quando alguém está saindo de casa."
+    },
+    {
+      "id": 6,
+      "title": "Jesus Loves Me",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4KWRhZEUkrTCqBKDZHbBs6?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Jesus loves me, this I know.",
+          "pt": "Jesus me ama, isso eu sei."
+        },
+        {
+          "en": "For the Bible tells me so.",
+          "pt": "Pois a Bíblia me diz assim."
+        },
+        {
+          "en": "Little ones to Him belong.",
+          "pt": "Pequenininhos a Ele pertencem."
+        },
+        {
+          "en": "They are weak, but He is strong.",
+          "pt": "Eles são frágeis, mas Ele é forte."
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Jesus loves me, Jesus loves me.",
+          "pt": "Jesus me ama, Jesus me ama."
+        },
+        {
+          "en": "Jesus loves me, yes I know.",
+          "pt": "Jesus me ama, sim, eu sei."
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "💕",
+          "en": "Love",
+          "pt": "Amor"
+        },
+        {
+          "emoji": "🙏",
+          "en": "Jesus",
+          "pt": "Jesus"
+        },
+        {
+          "emoji": "📖",
+          "en": "Bible",
+          "pt": "Bíblia"
+        },
+        {
+          "emoji": "👶",
+          "en": "Little ones",
+          "pt": "Pequenininhos"
+        },
+        {
+          "emoji": "💪",
+          "en": "Strong",
+          "pt": "Forte"
+        },
+        {
+          "emoji": "✝️",
+          "en": "Know",
+          "pt": "Saber"
+        }
+      ],
+      "tips": "Esta é uma música religiosa que reforça os valores cristãos da escola. Cante com seu filho antes de dormir como uma rotina reconfortante. Você pode também usar a música para conversar sobre Deus e o amor de Jesus."
+    },
+    {
+      "id": 7,
+      "title": "See You Later, Alligator",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/58v4Hy6GOfETyJbz2lCwKV?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, jacaré"
+        },
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, jacaré"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🐊",
+          "en": "alligator",
+          "pt": "jacaré"
+        },
+        {
+          "emoji": "🐊",
+          "en": "crocodile",
+          "pt": "jacaré"
+        },
+        {
+          "emoji": "👋",
+          "en": "see you later",
+          "pt": "até logo"
+        },
+        {
+          "emoji": "⏰",
+          "en": "in a while",
+          "pt": "daqui a pouco"
+        }
+      ],
+      "tips": "Use nas despedidas do dia! A rima entre 'alligator' e 'crocodile' fica memorável. Faça seu filho imitar o movimento do jacaré!"
+    },
+    {
+      "id": 8,
+      "title": "Days of the Week",
+      "artist": "The Singing Walrus",
+      "spotifyId": "3S50coF3ggnWIOjh9qryOW",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3S50coF3ggnWIOjh9qryOW?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Monday, Tuesday, Wednesday, Thursday, Friday",
+          "pt": "Segunda, terça, quarta, quinta, sexta"
+        },
+        {
+          "en": "Saturday and Sunday",
+          "pt": "Sábado e domingo"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Seven days, seven days",
+          "pt": "Sete dias, sete dias"
+        },
+        {
+          "en": "Seven days a week",
+          "pt": "Sete dias por semana"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Monday is the first day",
+          "pt": "Segunda é o primeiro dia"
+        },
+        {
+          "en": "Tuesday is the second day",
+          "pt": "Terça é o segundo dia"
+        },
+        {
+          "en": "Wednesday is the third day",
+          "pt": "Quarta é o terceiro dia"
+        },
+        {
+          "en": "Thursday is the fourth day",
+          "pt": "Quinta é o quarto dia"
+        },
+        {
+          "en": "Friday is the fifth day",
+          "pt": "Sexta é o quinto dia"
+        },
+        {
+          "en": "Saturday is the sixth day",
+          "pt": "Sábado é o sexto dia"
+        },
+        {
+          "en": "Sunday is the seventh day",
+          "pt": "Domingo é o sétimo dia"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "📅",
+          "en": "days",
+          "pt": "dias"
+        },
+        {
+          "emoji": "📆",
+          "en": "week",
+          "pt": "semana"
+        },
+        {
+          "emoji": "🌅",
+          "en": "Monday",
+          "pt": "segunda-feira"
+        },
+        {
+          "emoji": "🗓️",
+          "en": "Sunday",
+          "pt": "domingo"
+        }
+      ],
+      "tips": "Crie um calendário visual na parede com os dias da semana em inglês. Todo dia ao acordar, aponte e cante qual é o dia. Isso ajuda na sequência numérica e temporal."
+    },
+    {
+      "id": 9,
+      "title": "How's The Weather?",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6wBgOuK1eVlGKNEHDdziuN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "How's the weather? It's sunny",
+          "pt": "Como está o tempo? Está ensolarado"
+        },
+        {
+          "en": "How's the weather? It's rainy",
+          "pt": "Como está o tempo? Está chuvoso"
+        },
+        {
+          "en": "How's the weather? It's cloudy",
+          "pt": "Como está o tempo? Está nublado"
+        },
+        {
+          "en": "How's the weather? It's snowy",
+          "pt": "Como está o tempo? Está nevando"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "☀️",
+          "en": "sunny",
+          "pt": "ensolarado"
+        },
+        {
+          "emoji": "🌧️",
+          "en": "rainy",
+          "pt": "chuvoso"
+        },
+        {
+          "emoji": "☁️",
+          "en": "cloudy",
+          "pt": "nublado"
+        },
+        {
+          "emoji": "❄️",
+          "en": "snowy",
+          "pt": "nevando"
+        }
+      ],
+      "tips": "Olhe pela janela todo dia e descreva o tempo em inglês: 'It's sunny!' ou 'It's rainy!' Torne isso uma rotina matinal antes do café!"
+    }
+  ]
+}

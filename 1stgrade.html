@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>1st Grade English Songs — Academy Christ Realm</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --navy: #1a2744;
+  --navy-deep: #0f1a2e;
+  --gold: #c9a84c;
+  --gold-light: #e8d48b;
+  --cream: #faf6ee;
+  --cream-warm: #f5edd8;
+  --white: #ffffff;
+  --text-dark: #1a2744;
+  --text-mid: #4a5568;
+  --text-light: #718096;
+  --card-shadow: 0 4px 24px rgba(26,39,68,0.10);
+  --card-hover: 0 8px 40px rgba(26,39,68,0.16);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--cream);
+  color: var(--text-dark);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* === HEADER === */
+.header {
+  background: #042442;
+  padding: 2rem 1.5rem 2.5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* overlay removed for exact color match with logo */
+
+.header-content {
+  position: relative;
+  z-index: 1;
+}
+
+.logo-container {
+  max-width: 320px;
+  margin: 0 auto 1.25rem;
+  border: none;
+  box-shadow: none;
+  background: transparent;
+}
+
+.logo-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.header h1 {
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--white);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+}
+
+.header .subtitle {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.95rem;
+  color: var(--gold);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.header .class-badge {
+  display: inline-block;
+  margin-top: 1rem;
+  background: rgba(201,168,76,0.15);
+  border: 1px solid rgba(201,168,76,0.3);
+  color: var(--gold-light);
+  padding: 0.4rem 1.2rem;
+  border-radius: 100px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* === INTRO === */
+.intro {
+  text-align: center;
+  padding: 2rem 1.5rem 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.intro p {
+  font-size: 0.95rem;
+  color: var(--text-mid);
+  line-height: 1.7;
+}
+
+.intro .emoji-row {
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.3em;
+}
+
+/* === SPOTIFY PLAYLIST LINK === */
+.playlist-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 1rem auto 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: #1DB954;
+  color: white;
+  text-decoration: none;
+  border-radius: 100px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  max-width: 300px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 12px rgba(29,185,84,0.3);
+}
+
+.playlist-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 20px rgba(29,185,84,0.4);
+}
+
+.playlist-link svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+/* === SONG CARDS === */
+.songs-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem 1rem 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.song-card {
+  background: var(--white);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+  transition: all 0.3s ease;
+  border: 1px solid rgba(26,39,68,0.06);
+}
+
+.song-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.1rem 1.25rem;
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.2s ease;
+}
+
+.song-header:hover {
+  background: rgba(26,39,68,0.02);
+}
+
+.song-number {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+  color: var(--white);
+}
+
+.song-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.song-title {
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  line-height: 1.3;
+}
+
+.song-artist {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 0.15rem;
+}
+
+.song-toggle {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: transform 0.3s ease;
+}
+
+.song-toggle svg {
+  width: 18px;
+  height: 18px;
+  color: var(--text-light);
+  transition: color 0.2s ease;
+}
+
+.song-card.open .song-toggle {
+  transform: rotate(180deg);
+}
+
+.song-card.open .song-toggle svg {
+  color: var(--gold);
+}
+
+/* === SONG BODY === */
+.song-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+}
+
+.song-body-inner {
+  padding: 0 1.25rem 1.25rem;
+}
+
+/* Tabs */
+.tab-row {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(26,39,68,0.1);
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 0.55rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  background: var(--cream);
+  color: var(--text-mid);
+  border: none;
+  transition: all 0.2s ease;
+  letter-spacing: 0.03em;
+  font-family: 'DM Sans', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tab-btn.active {
+  background: var(--navy);
+  color: var(--white);
+}
+
+.tab-btn:not(.active):hover {
+  background: var(--cream-warm);
+}
+
+/* Tab Content */
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Lyrics Display */
+.lyrics-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.lyric-line {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid rgba(26,39,68,0.04);
+  align-items: baseline;
+}
+
+.lyric-line:last-child {
+  border-bottom: none;
+}
+
+.lyric-en {
+  flex: 1;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-dark);
+  line-height: 1.5;
+}
+
+.lyric-pt {
+  flex: 1;
+  font-size: 0.85rem;
+  color: var(--text-light);
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.lyric-break {
+  height: 0.5rem;
+  border-bottom: none !important;
+}
+
+/* Vocab */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+
+.vocab-item {
+  background: var(--cream);
+  padding: 0.7rem 0.85rem;
+  border-radius: 10px;
+  border: 1px solid rgba(26,39,68,0.05);
+}
+
+.vocab-en {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-dark);
+  margin-bottom: 0.15rem;
+}
+
+.vocab-pt {
+  font-size: 0.78rem;
+  color: var(--text-light);
+}
+
+.vocab-emoji {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Tips */
+.tip-card {
+  background: linear-gradient(135deg, rgba(201,168,76,0.08), rgba(201,168,76,0.03));
+  border: 1px solid rgba(201,168,76,0.2);
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.tip-title {
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+
+.tip-text {
+  font-size: 0.85rem;
+  color: var(--text-mid);
+  line-height: 1.7;
+}
+
+/* Spotify Embed */
+.spotify-embed {
+  margin-top: 1rem;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* === SHARE SECTION === */
+.share-section {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 1rem 1.5rem;
+}
+
+.share-card {
+  background: linear-gradient(135deg, var(--navy-deep), var(--navy));
+  border-radius: 16px;
+  padding: 1.75rem 1.5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.share-card::before {
+  content: '';
+  position: absolute;
+  top: -30%;
+  right: -20%;
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, rgba(201,168,76,0.1) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.share-card h3 {
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 0.4rem;
+  position: relative;
+}
+
+.share-card p {
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.6);
+  margin-bottom: 1.25rem;
+  line-height: 1.5;
+  position: relative;
+}
+
+.share-buttons {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  position: relative;
+}
+
+.share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.25rem;
+  border-radius: 100px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  font-family: 'DM Sans', sans-serif;
+  transition: all 0.2s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.share-btn svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+.share-btn-whatsapp {
+  background: #25D366;
+  color: white;
+  box-shadow: 0 2px 12px rgba(37,211,102,0.3);
+}
+
+.share-btn-whatsapp:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 20px rgba(37,211,102,0.4);
+}
+
+.share-btn-copy {
+  background: rgba(255,255,255,0.1);
+  color: var(--gold-light);
+  border: 1px solid rgba(201,168,76,0.3);
+}
+
+.share-btn-copy:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+
+.share-btn-copy.copied {
+  background: rgba(201,168,76,0.2);
+  color: var(--gold);
+}
+
+/* Toast notification */
+.toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px);
+  background: var(--navy);
+  color: var(--white);
+  padding: 0.75rem 1.5rem;
+  border-radius: 100px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  z-index: 1000;
+  opacity: 0;
+  transition: all 0.3s ease;
+  pointer-events: none;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* === FOOTER === */
+.footer {
+  text-align: center;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--text-light);
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+.footer .school-name {
+  font-family: 'Crimson Pro', serif;
+  font-weight: 700;
+  color: var(--navy);
+  font-size: 0.9rem;
+}
+
+.footer .gold-line {
+  width: 40px;
+  height: 2px;
+  background: var(--gold);
+  margin: 0.75rem auto;
+  border-radius: 2px;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 400px) {
+  .header h1 { font-size: 1.3rem; }
+  .song-title { font-size: 1.05rem; }
+  .lyric-line { flex-direction: column; gap: 0.15rem; }
+  .lyric-pt { padding-left: 0.75rem; }
+  .vocab-grid { grid-template-columns: 1fr; }
+}
+
+/* Color gradients for song numbers */
+.song-card:nth-child(1) .song-number { background: linear-gradient(135deg, #f59e0b, #d97706); }
+.song-card:nth-child(2) .song-number { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+.song-card:nth-child(3) .song-number { background: linear-gradient(135deg, #10b981, #059669); }
+.song-card:nth-child(4) .song-number { background: linear-gradient(135deg, #3b82f6, #2563eb); }
+.song-card:nth-child(5) .song-number { background: linear-gradient(135deg, #ec4899, #db2777); }
+.song-card:nth-child(6) .song-number { background: linear-gradient(135deg, var(--gold), #b8942f); }
+</style>
+</head>
+<body data-json="data-1stgrade.json">
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-content">
+    <div class="logo-container">
+      <img src="" id="logo-img" alt="Academy Christ Realm Logo">
+    </div>
+    <h1>English Songs</h1>
+    <div class="subtitle">Academy Christ Realm</div>
+    <div class="class-badge" id="class-badge"></div>
+  </div>
+</div>
+
+<!-- INTRO -->
+<div class="intro">
+  <div class="emoji-row">🎵 🎶 🎵</div>
+  <p id="intro-text"></p>
+  <a href="#" target="_blank" id="playlist-link" class="playlist-link">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+    Abrir Playlist no Spotify
+  </a>
+</div>
+
+<!-- SONGS -->
+<div class="songs-container" id="songs-container"></div>
+
+<!-- SHARE SECTION -->
+<div class="share-section">
+  <div class="share-card">
+    <h3>🎵 Compartilhe com a família</h3>
+    <p>Envie este link para seus parentes e amigos para que eles também possam acompanhar as músicas das aulas.</p>
+    <div class="share-buttons">
+      <button class="share-btn share-btn-whatsapp" id="share-whatsapp">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.67-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.076 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421-7.403h-.004a9.87 9.87 0 00-5.031 1.378c-3.055 2.364-3.905 6.75-1.904 10.23.99 1.744 2.567 2.94 4.476 3.486 1.911.546 3.966.274 5.887-.731l.142-.081c.309-.187.679-.513.857-.935l.289-.734c.272-.692.321-1.466.212-2.182-.108-.716-.327-1.42-.648-2.082-.65-1.334-1.668-2.569-2.816-3.421-1.53-1.1-3.701-1.799-5.882-1.799-.595 0-1.178.042-1.748.13z"/></svg>
+        WhatsApp
+      </button>
+      <button class="share-btn share-btn-copy" id="share-copy">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 16v2a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-2"></path><rect x="6" y="11" width="12" height="10"></rect></svg>
+        Copiar Link
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="school-name">Academy Christ Realm</div>
+  <div class="gold-line"></div>
+  <p>Uma escola cristã clássica dedicada a desenvolver os talentos de cada criança.</p>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="script.js"></script>
+</body>
+</html>

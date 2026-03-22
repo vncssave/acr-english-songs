@@ -1,0 +1,678 @@
+{
+  "class": "K4",
+  "classLabel": "K4 — Educação Infantil",
+  "schoolName": "Academy Christ Realm",
+  "schoolLogo": "logo-acr.png",
+  "intro": "Essas são as músicas que estamos aprendendo nas aulas de inglês! Clique em cada música para ver a letra, tradução e dicas para praticar em casa.",
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/40PvuGhcHc8CCxdHRoIqSP",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Hello!",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Hello, hello, how are you?",
+          "pt": "Olá, olá, como você está?"
+        },
+        {
+          "en": "I'm fine, thank you. How are you?",
+          "pt": "Estou bem, obrigado. E você?"
+        },
+        {
+          "en": "Hello, hello, how are you?",
+          "pt": "Olá, olá, como você está?"
+        },
+        {
+          "en": "I'm fine, thank you. How are you?",
+          "pt": "Estou bem, obrigado. E você?"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👋",
+          "en": "hello",
+          "pt": "olá"
+        },
+        {
+          "emoji": "😊",
+          "en": "fine",
+          "pt": "bem"
+        },
+        {
+          "emoji": "🙏",
+          "en": "thank you",
+          "pt": "obrigado"
+        },
+        {
+          "emoji": "❓",
+          "en": "how are you",
+          "pt": "como você está"
+        }
+      ],
+      "tips": "Pratique cumprimentos durante o dia: ao acordar, antes das refeições e ao dormir. Faça uma rotina de dizer 'Hello, I'm fine, thank you!' com diferentes entonações."
+    },
+    {
+      "id": 2,
+      "title": "Hello Song",
+      "artist": "Emu Kids",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3pN321e9ZpXroyeyovmRtf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Hello, hello, hello, hello",
+          "pt": "Olá, olá, olá, olá"
+        },
+        {
+          "en": "How do you do?",
+          "pt": "Como vai você?"
+        },
+        {
+          "en": "Hello, hello, hello, hello",
+          "pt": "Olá, olá, olá, olá"
+        },
+        {
+          "en": "Nice to meet you!",
+          "pt": "Prazer em conhecê-lo!"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👋",
+          "en": "hello",
+          "pt": "olá"
+        },
+        {
+          "emoji": "🤝",
+          "en": "nice to meet you",
+          "pt": "prazer em conhecê-lo"
+        },
+        {
+          "emoji": "❓",
+          "en": "how do you do",
+          "pt": "como vai"
+        },
+        {
+          "emoji": "😊",
+          "en": "pleased",
+          "pt": "contente"
+        }
+      ],
+      "tips": "Use esta música para praticar apresentações. Ensine seu filho a cumprimentar novos amigos dizendo 'Hello! Nice to meet you!' com um sorriso."
+    },
+    {
+      "id": 3,
+      "title": "One Little Finger",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4jKlouPlVZOkuRwyBpgLPN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "One little finger, one little finger, one little finger",
+          "pt": "Um dedinho, um dedinho, um dedinho"
+        },
+        {
+          "en": "Point it up high, point it up high, point it up high",
+          "pt": "Aponte para cima, aponte para cima, aponte para cima"
+        },
+        {
+          "en": "One little finger, one little finger, one little finger",
+          "pt": "Um dedinho, um dedinho, um dedinho"
+        },
+        {
+          "en": "Put it on your nose",
+          "pt": "Coloque no seu nariz"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👆",
+          "en": "finger",
+          "pt": "dedo"
+        },
+        {
+          "emoji": "⬆️",
+          "en": "up",
+          "pt": "para cima"
+        },
+        {
+          "emoji": "👃",
+          "en": "nose",
+          "pt": "nariz"
+        },
+        {
+          "emoji": "☝️",
+          "en": "point",
+          "pt": "apontar"
+        }
+      ],
+      "tips": "Acompanhe a música apontando para diferentes partes do corpo. Seu filho aprenderá vocabulário corporal enquanto se diverte!"
+    },
+    {
+      "id": 4,
+      "title": "Bye Bye Goodbye",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0FbsYlb1ZMgTICWE3ILQGt?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Bye bye, goodbye. See you later, alligator",
+          "pt": "Tchau, tchau, adeus. Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile. Bye bye, goodbye",
+          "pt": "Daqui a pouco, jacaré. Tchau, tchau, adeus"
+        },
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, jacaré"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👋",
+          "en": "bye",
+          "pt": "tchau"
+        },
+        {
+          "emoji": "🐊",
+          "en": "alligator",
+          "pt": "jacaré"
+        },
+        {
+          "emoji": "👀",
+          "en": "see you later",
+          "pt": "até logo"
+        },
+        {
+          "emoji": "⏰",
+          "en": "in a while",
+          "pt": "daqui a pouco"
+        }
+      ],
+      "tips": "Use essa música para as despedidas diárias: na porta da escola, antes de dormir, ou ao se despedir de amiguinhos. Faz a separação mais divertida!"
+    },
+    {
+      "id": 5,
+      "title": "Jesus Loves Me",
+      "artist": "Joey + Rory",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Jesus loves me, this I know",
+          "pt": "Jesus me ama, isso eu sei"
+        },
+        {
+          "en": "For the Bible tells me so",
+          "pt": "Pois a Bíblia me conta assim"
+        },
+        {
+          "en": "Little ones to him belong",
+          "pt": "Os pequenos a Ele pertencem"
+        },
+        {
+          "en": "They are weak, but he is strong",
+          "pt": "Eles são fracos, mas Ele é forte"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "❤️",
+          "en": "love",
+          "pt": "amor"
+        },
+        {
+          "emoji": "✝️",
+          "en": "Jesus",
+          "pt": "Jesus"
+        },
+        {
+          "emoji": "📖",
+          "en": "Bible",
+          "pt": "Bíblia"
+        },
+        {
+          "emoji": "💪",
+          "en": "strong",
+          "pt": "forte"
+        }
+      ],
+      "tips": "Cante esta música em momentos de tranquilidade, como na hora de dormir ou em momentos de oração em família. Uma forma linda de conectar fé e aprendizado."
+    },
+    {
+      "id": 6,
+      "title": "The Rainbow Colors Song",
+      "artist": "Kids TV 123",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1vdIChEmEuPb5GbY19b0Hu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Red, yellow, blue, green, purple, orange",
+          "pt": "Vermelho, amarelo, azul, verde, roxo, laranja"
+        },
+        {
+          "en": "Rainbow colors in the sky",
+          "pt": "Cores do arco-íris no céu"
+        },
+        {
+          "en": "Red, yellow, blue, green, purple, orange",
+          "pt": "Vermelho, amarelo, azul, verde, roxo, laranja"
+        },
+        {
+          "en": "What a beautiful sight!",
+          "pt": "Que vista bonita!"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🔴",
+          "en": "red",
+          "pt": "vermelho"
+        },
+        {
+          "emoji": "🟡",
+          "en": "yellow",
+          "pt": "amarelo"
+        },
+        {
+          "emoji": "🔵",
+          "en": "blue",
+          "pt": "azul"
+        },
+        {
+          "emoji": "🟢",
+          "en": "green",
+          "pt": "verde"
+        },
+        {
+          "emoji": "🟣",
+          "en": "purple",
+          "pt": "roxo"
+        },
+        {
+          "emoji": "🟠",
+          "en": "orange",
+          "pt": "laranja"
+        }
+      ],
+      "tips": "Procure objetos coloridos em casa enquanto canta: 'Red! Where is red?' Seu filho aprenderá cores enquanto amplia o vocabulário."
+    },
+    {
+      "id": 7,
+      "title": "I See Something Blue",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3gY9yDMADlMzP2VRGXCXtg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "I see something blue",
+          "pt": "Eu vejo algo azul"
+        },
+        {
+          "en": "Do you? Do you?",
+          "pt": "Você vê? Você vê?"
+        },
+        {
+          "en": "I see something blue",
+          "pt": "Eu vejo algo azul"
+        },
+        {
+          "en": "What is it? What is it?",
+          "pt": "O que é? O que é?"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔵",
+          "en": "blue",
+          "pt": "azul"
+        },
+        {
+          "emoji": "❓",
+          "en": "what",
+          "pt": "o que"
+        },
+        {
+          "emoji": "🤔",
+          "en": "something",
+          "pt": "algo"
+        }
+      ],
+      "tips": "Brinque de 'I spy' em inglês! Diga 'I see something blue. What is it?' e deixe seu filho adivinhar e nomear objetos em inglês."
+    },
+    {
+      "id": 8,
+      "title": "I See Something Pink",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5GrHtc4Ezue3bevg2iyvph?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "I see something pink",
+          "pt": "Eu vejo algo rosa"
+        },
+        {
+          "en": "Do you? Do you?",
+          "pt": "Você vê? Você vê?"
+        },
+        {
+          "en": "I see something pink",
+          "pt": "Eu vejo algo rosa"
+        },
+        {
+          "en": "What is it? What is it?",
+          "pt": "O que é? O que é?"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🌸",
+          "en": "pink",
+          "pt": "rosa"
+        },
+        {
+          "emoji": "❓",
+          "en": "what",
+          "pt": "o que"
+        },
+        {
+          "emoji": "🤔",
+          "en": "something",
+          "pt": "algo"
+        }
+      ],
+      "tips": "Continue a brincadeira do 'I spy' com esta música, procurando por objetos rosa. Ótima oportunidade para expandir o vocabulário de cores!"
+    },
+    {
+      "id": 9,
+      "title": "Row Row Row Your Boat",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4ofg4Jc82bXC8PdoMrglgg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Row, row, row your boat",
+          "pt": "Remem, remem, remem seu barco"
+        },
+        {
+          "en": "Gently down the stream",
+          "pt": "Suavemente pelo riacho"
+        },
+        {
+          "en": "Merrily, merrily, merrily, merrily",
+          "pt": "Alegremente, alegremente, alegremente, alegremente"
+        },
+        {
+          "en": "Life is but a dream",
+          "pt": "A vida é apenas um sonho"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🚣",
+          "en": "row",
+          "pt": "remar"
+        },
+        {
+          "emoji": "⛵",
+          "en": "boat",
+          "pt": "barco"
+        },
+        {
+          "emoji": "💧",
+          "en": "stream",
+          "pt": "riacho"
+        },
+        {
+          "emoji": "😄",
+          "en": "merrily",
+          "pt": "alegremente"
+        }
+      ],
+      "tips": "Cante enquanto faz movimentos de remar com os braços. Você pode brincar de barco com travesseiros, tornando o aprendizado mais dinâmico!"
+    },
+    {
+      "id": 10,
+      "title": "See You Later, Alligator",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/58v4Hy6GOfETyJbz2lCwKV?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, jacaré"
+        },
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, jacaré"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🐊",
+          "en": "alligator",
+          "pt": "jacaré"
+        },
+        {
+          "emoji": "🐊",
+          "en": "crocodile",
+          "pt": "jacaré"
+        },
+        {
+          "emoji": "👋",
+          "en": "see you later",
+          "pt": "até logo"
+        },
+        {
+          "emoji": "⏰",
+          "en": "in a while",
+          "pt": "daqui a pouco"
+        }
+      ],
+      "tips": "Use nas despedidas do dia! A rima entre 'alligator' e 'crocodile' fica memorável. Faça seu filho imitar o movimento do jacaré!"
+    },
+    {
+      "id": 11,
+      "title": "Mixing Colors",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3vsJNfedXEL21cFAdIGGkf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Red and yellow make orange",
+          "pt": "Vermelho e amarelo fazem laranja"
+        },
+        {
+          "en": "Blue and yellow make green",
+          "pt": "Azul e amarelo fazem verde"
+        },
+        {
+          "en": "Red and blue make purple",
+          "pt": "Vermelho e azul fazem roxo"
+        },
+        {
+          "en": "What color do you see?",
+          "pt": "Que cor você vê?"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🟠",
+          "en": "orange",
+          "pt": "laranja"
+        },
+        {
+          "emoji": "🟢",
+          "en": "green",
+          "pt": "verde"
+        },
+        {
+          "emoji": "🟣",
+          "en": "purple",
+          "pt": "roxo"
+        },
+        {
+          "emoji": "✨",
+          "en": "mix",
+          "pt": "misturar"
+        }
+      ],
+      "tips": "Faça experimentos com tinta ou marcadores! Misture cores enquanto canta para seu filho. Aprendizado + criatividade = diversão garantida!"
+    },
+    {
+      "id": 12,
+      "title": "How's The Weather?",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6wBgOuK1eVlGKNEHDdziuN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "How's the weather? It's sunny",
+          "pt": "Como está o tempo? Está ensolarado"
+        },
+        {
+          "en": "How's the weather? It's rainy",
+          "pt": "Como está o tempo? Está chuvoso"
+        },
+        {
+          "en": "How's the weather? It's cloudy",
+          "pt": "Como está o tempo? Está nublado"
+        },
+        {
+          "en": "How's the weather? It's snowy",
+          "pt": "Como está o tempo? Está nevando"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "☀️",
+          "en": "sunny",
+          "pt": "ensolarado"
+        },
+        {
+          "emoji": "🌧️",
+          "en": "rainy",
+          "pt": "chuvoso"
+        },
+        {
+          "emoji": "☁️",
+          "en": "cloudy",
+          "pt": "nublado"
+        },
+        {
+          "emoji": "❄️",
+          "en": "snowy",
+          "pt": "nevando"
+        }
+      ],
+      "tips": "Olhe pela janela todo dia e descreva o tempo em inglês: 'It's sunny!' ou 'It's rainy!' Torne isso uma rotina matinal antes do café!"
+    },
+    {
+      "id": 13,
+      "title": "Driving In My Car",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1urVoaX3ogk7f5UIMPReGu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "Driving in my car, beep beep beep",
+          "pt": "Dirigindo no meu carro, beep beep beep"
+        },
+        {
+          "en": "Driving in my car, beep beep beep",
+          "pt": "Dirigindo no meu carro, beep beep beep"
+        },
+        {
+          "en": "Turn around",
+          "pt": "Vire ao redor"
+        },
+        {
+          "en": "Going round and round",
+          "pt": "Girando e girando"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🚗",
+          "en": "car",
+          "pt": "carro"
+        },
+        {
+          "emoji": "🔄",
+          "en": "turn around",
+          "pt": "virar"
+        },
+        {
+          "emoji": "📯",
+          "en": "beep",
+          "pt": "bip"
+        },
+        {
+          "emoji": "⭕",
+          "en": "round",
+          "pt": "redondo"
+        }
+      ],
+      "tips": "Cante durante os trajetos de carro! Faça movimentos de volante e sons de buzina. Seu filho associará a diversão com os deslocamentos!"
+    },
+    {
+      "id": 14,
+      "title": "The Wheels On The Bus",
+      "artist": "Super Simple Songs",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1SJUpO4mu6kBUxVekSYPhu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "lyrics": [
+        {
+          "en": "The wheels on the bus go round and round",
+          "pt": "As rodas do ônibus giram e giram"
+        },
+        {
+          "en": "Round and round, round and round",
+          "pt": "Giram e giram, giram e giram"
+        },
+        {
+          "en": "The wheels on the bus go round and round",
+          "pt": "As rodas do ônibus giram e giram"
+        },
+        {
+          "en": "All day long",
+          "pt": "O dia todo"
+        }
+      ],
+      "vocab": [
+        {
+          "emoji": "🚌",
+          "en": "bus",
+          "pt": "ônibus"
+        },
+        {
+          "emoji": "🛞",
+          "en": "wheels",
+          "pt": "rodas"
+        },
+        {
+          "emoji": "🔄",
+          "en": "round and round",
+          "pt": "giram e giram"
+        },
+        {
+          "emoji": "🌅",
+          "en": "all day long",
+          "pt": "o dia todo"
+        }
+      ],
+      "tips": "Acompanhe com gestos: rodas girando, buzina tocando, portas se abrindo. Uma música perfeita para desenvolver coordenação motora!"
+    }
+  ]
+}
