@@ -10,35 +10,51 @@
       "id": 1,
       "title": "Hello!",
       "artist": "Super Simple Songs",
-      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https:/open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+      "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Hello, hello, hello, how are you?",
-          "pt": "Olá, olá, olá, como você está?"
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
         },
         {
-          "en": "Hello, hello, hello, how are you?",
-          "pt": "Olá, olá, olá, como você está?"
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
         },
         {
-          "en": "I'm good! I'm great! I'm wonderful!",
-          "pt": "Estou bem! Estou ótimo! Estou maravilhoso!"
+          "en": "I'm good!",
+          "pt": "Estou bem!"
+        },
+        {
+          "en": "I'm great!",
+          "pt": "Estou ótimo!"
+        },
+        {
+          "en": "I'm wonderful!",
+          "pt": "Estou maravilhoso!"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Hello, hello, hello, how are you?",
-          "pt": "Olá, olá, olá, como você está?"
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
         },
         {
-          "en": "Hello, hello, hello, how are you?",
-          "pt": "Olá, olá, olá, como você está?"
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
         },
         {
-          "en": "I'm tired. I'm hungry. I'm not so good.",
-          "pt": "Estou cansado. Estou com fome. Não estou muito bem."
+          "en": "I'm tired.",
+          "pt": "Estou cansado."
+        },
+        {
+          "en": "I'm hungry.",
+          "pt": "Estou com fome."
+        },
+        {
+          "en": "I'm not so good.",
+          "pt": "Não estou muito bem."
         }
       ],
       "vocab": [
@@ -167,8 +183,8 @@
           "pt": ""
         },
         {
-          "en": "Eyes and ears and mouth and nose.",
-          "pt": "Olhos e orelhas e boca e nariz."
+          "en": "And eyes and ears and mouth and nose.",
+          "pt": "E olhos e orelhas e boca e nariz."
         }
       ],
       "vocab": [
@@ -281,32 +297,36 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0FbsYlb1ZMgTICWE3ILQGt?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Bye bye goodbye, I'm gonna go.",
-          "pt": "Tchau tchau adeus, vou indo."
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
         },
         {
-          "en": "Bye bye goodbye, I'm gonna go.",
-          "pt": "Tchau tchau adeus, vou indo."
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
         },
         {
-          "en": "See you later, I'm gonna go.",
-          "pt": "Até mais tarde, vou indo."
+          "en": "I can clap my hands",
+          "pt": "Eu consigo bater palmas"
+        },
+        {
+          "en": "I can stamp my feet",
+          "pt": "Eu consigo bater os pés"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Bye bye goodbye, see you soon.",
-          "pt": "Tchau tchau adeus, até logo."
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
         },
         {
-          "en": "Bye bye goodbye, see you soon.",
-          "pt": "Tchau tchau adeus, até logo."
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
         },
         {
-          "en": "See you later, see you soon!",
-          "pt": "Até mais tarde, até logo!"
+          "en": "Goodbye!",
+          "pt": "Adeus!"
         }
       ],
       "vocab": [
@@ -321,24 +341,14 @@
           "pt": "Adeus"
         },
         {
-          "emoji": "🚶",
-          "en": "Go",
-          "pt": "Ir"
+          "emoji": "👏",
+          "en": "Clap",
+          "pt": "Bater palmas"
         },
         {
-          "emoji": "⏰",
-          "en": "See you later",
-          "pt": "Até mais tarde"
-        },
-        {
-          "emoji": "🤞",
-          "en": "Soon",
-          "pt": "Em breve"
-        },
-        {
-          "emoji": "😊",
-          "en": "See you",
-          "pt": "Até logo"
+          "emoji": "🦶",
+          "en": "Stamp",
+          "pt": "Bater os pés"
         }
       ],
       "tips": "Acene despedidas enquanto canta com seu filho. Você pode cantá-la quando se despedir dele na escola ou quando alguém está saindo de casa."
@@ -350,32 +360,40 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Jesus loves me, this I know.",
-          "pt": "Jesus me ama, isso eu sei."
+          "en": "Jesus loves me, this I know",
+          "pt": "Jesus me ama, isso eu sei"
         },
         {
-          "en": "For the Bible tells me so.",
-          "pt": "Pois a Bíblia me diz assim."
+          "en": "For the Bible tells me so",
+          "pt": "Pois a Bíblia me diz assim"
         },
         {
-          "en": "Little ones to Him belong.",
-          "pt": "Pequenininhos a Ele pertencem."
+          "en": "Little ones to Him belong",
+          "pt": "Os pequeninos a Ele pertencem"
         },
         {
-          "en": "They are weak, but He is strong.",
-          "pt": "Eles são frágeis, mas Ele é forte."
+          "en": "They are weak, but He is strong",
+          "pt": "Eles são fracos, mas Ele é forte"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Jesus loves me, Jesus loves me.",
-          "pt": "Jesus me ama, Jesus me ama."
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
         },
         {
-          "en": "Jesus loves me, yes I know.",
-          "pt": "Jesus me ama, sim, eu sei."
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "The Bible tells me so",
+          "pt": "A Bíblia me diz assim"
         }
       ],
       "vocab": [
@@ -424,7 +442,7 @@
         },
         {
           "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, jacaré"
+          "pt": "Daqui a pouco, crocodilo"
         },
         {
           "en": "See you later, alligator",
@@ -432,7 +450,7 @@
         },
         {
           "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, jacaré"
+          "pt": "Daqui a pouco, crocodilo"
         }
       ],
       "vocab": [
@@ -550,20 +568,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6wBgOuK1eVlGKNEHDdziuN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "How's the weather? It's sunny",
-          "pt": "Como está o tempo? Está ensolarado"
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
         },
         {
-          "en": "How's the weather? It's rainy",
-          "pt": "Como está o tempo? Está chuvoso"
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
         },
         {
-          "en": "How's the weather? It's cloudy",
-          "pt": "Como está o tempo? Está nublado"
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
         },
         {
-          "en": "How's the weather? It's snowy",
-          "pt": "Como está o tempo? Está nevando"
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Is it sunny?",
+          "pt": "Está ensolarado?"
+        },
+        {
+          "en": "Is it rainy?",
+          "pt": "Está chuvoso?"
+        },
+        {
+          "en": "Is it cloudy?",
+          "pt": "Está nublado?"
+        },
+        {
+          "en": "Is it snowy?",
+          "pt": "Está nevando?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside!",
+          "pt": "Vamos olhar lá fora!"
         }
       ],
       "vocab": [
@@ -596,16 +642,66 @@
       "artist": "Super Simple Songs",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6jNrjFCd9h9jBdGomb7LRN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        { "en": "Open shut them, open shut them,", "pt": "Abra feche, abra feche," },
-        { "en": "Give a little clap, clap, clap.", "pt": "Dê uma palminha, clap, clap, clap." },
-        { "en": "Open shut them, open shut them,", "pt": "Abra feche, abra feche," },
-        { "en": "Put them in your lap, lap, lap.", "pt": "Coloque no seu colo, colo, colo." }
+        {
+          "en": "Open, shut them, open, shut them",
+          "pt": "Abra, feche, abra, feche"
+        },
+        {
+          "en": "Give a little clap, clap, clap",
+          "pt": "Dê uma palminha, clap, clap, clap"
+        },
+        {
+          "en": "Open, shut them, open, shut them",
+          "pt": "Abra, feche, abra, feche"
+        },
+        {
+          "en": "Put them in your lap, lap, lap",
+          "pt": "Coloque no seu colo, colo, colo"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Big and small, big and small",
+          "pt": "Grande e pequeno, grande e pequeno"
+        },
+        {
+          "en": "Big, big, big, big, small, small, small",
+          "pt": "Grande, grande, grande, grande, pequeno, pequeno, pequeno"
+        }
       ],
       "vocab": [
-        { "emoji": "🖐️", "en": "open", "pt": "abrir" },
-        { "emoji": "✊", "en": "shut", "pt": "fechar" },
-        { "emoji": "👏", "en": "clap", "pt": "palma" },
-        { "emoji": "🦵", "en": "lap", "pt": "colo" }
+        {
+          "emoji": "🖐️",
+          "en": "open",
+          "pt": "abrir"
+        },
+        {
+          "emoji": "✊",
+          "en": "shut",
+          "pt": "fechar"
+        },
+        {
+          "emoji": "👏",
+          "en": "clap",
+          "pt": "palma"
+        },
+        {
+          "emoji": "🦵",
+          "en": "lap",
+          "pt": "colo"
+        },
+        {
+          "emoji": "📏",
+          "en": "big",
+          "pt": "grande"
+        },
+        {
+          "emoji": "🤏",
+          "en": "small",
+          "pt": "pequeno"
+        }
       ],
       "tips": "Faça os gestos junto com seu filho: abra e feche as mãos, bata palmas e coloque as mãos no colo. Ótima para coordenação motora e seguir instruções!"
     },
@@ -615,16 +711,44 @@
       "artist": "Super Simple Songs",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3N6kzbnfpTPB5J9NAGc1rU?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        { "en": "Twinkle, twinkle, little star,", "pt": "Brilha, brilha, estrelinha," },
-        { "en": "How I wonder what you are.", "pt": "Como eu me pergunto o que você é." },
-        { "en": "Up above the world so high,", "pt": "Lá no alto do mundo tão alto," },
-        { "en": "Like a diamond in the sky.", "pt": "Como um diamante no céu." }
+        {
+          "en": "Twinkle, twinkle, little star,",
+          "pt": "Brilha, brilha, estrelinha,"
+        },
+        {
+          "en": "How I wonder what you are.",
+          "pt": "Como eu me pergunto o que você é."
+        },
+        {
+          "en": "Up above the world so high,",
+          "pt": "Lá no alto do mundo tão alto,"
+        },
+        {
+          "en": "Like a diamond in the sky.",
+          "pt": "Como um diamante no céu."
+        }
       ],
       "vocab": [
-        { "emoji": "⭐", "en": "star", "pt": "estrela" },
-        { "emoji": "✨", "en": "twinkle", "pt": "brilhar" },
-        { "emoji": "💎", "en": "diamond", "pt": "diamante" },
-        { "emoji": "🌌", "en": "sky", "pt": "céu" }
+        {
+          "emoji": "⭐",
+          "en": "star",
+          "pt": "estrela"
+        },
+        {
+          "emoji": "✨",
+          "en": "twinkle",
+          "pt": "brilhar"
+        },
+        {
+          "emoji": "💎",
+          "en": "diamond",
+          "pt": "diamante"
+        },
+        {
+          "emoji": "🌌",
+          "en": "sky",
+          "pt": "céu"
+        }
       ],
       "tips": "Cante antes de dormir apontando para o céu ou para estrelas de brinquedo. Uma música clássica que toda criança adora e ajuda a relaxar!"
     },
@@ -634,16 +758,48 @@
       "artist": "Super Simple Songs, Noodle & Pals",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6GhrqahB93lhCrQce30xo8?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        { "en": "One, two, three, four, five, six, seven.", "pt": "Um, dois, três, quatro, cinco, seis, sete." },
-        { "en": "One, two, three, four, five, six, seven.", "pt": "Um, dois, três, quatro, cinco, seis, sete." },
-        { "en": "Seven, six, five, four, three, two, one.", "pt": "Sete, seis, cinco, quatro, três, dois, um." },
-        { "en": "Seven, six, five, four, three, two, one.", "pt": "Sete, seis, cinco, quatro, três, dois, um." }
+        {
+          "en": "One, two, three, four, five, six, seven.",
+          "pt": "Um, dois, três, quatro, cinco, seis, sete."
+        },
+        {
+          "en": "One, two, three, four, five, six, seven.",
+          "pt": "Um, dois, três, quatro, cinco, seis, sete."
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Seven, six, five, four, three, two, one.",
+          "pt": "Sete, seis, cinco, quatro, três, dois, um."
+        },
+        {
+          "en": "Seven, six, five, four, three, two, one.",
+          "pt": "Sete, seis, cinco, quatro, três, dois, um."
+        }
       ],
       "vocab": [
-        { "emoji": "1️⃣", "en": "one", "pt": "um" },
-        { "emoji": "3️⃣", "en": "three", "pt": "três" },
-        { "emoji": "5️⃣", "en": "five", "pt": "cinco" },
-        { "emoji": "7️⃣", "en": "seven", "pt": "sete" }
+        {
+          "emoji": "1️⃣",
+          "en": "one",
+          "pt": "um"
+        },
+        {
+          "emoji": "3️⃣",
+          "en": "three",
+          "pt": "três"
+        },
+        {
+          "emoji": "5️⃣",
+          "en": "five",
+          "pt": "cinco"
+        },
+        {
+          "emoji": "7️⃣",
+          "en": "seven",
+          "pt": "sete"
+        }
       ],
       "tips": "Conte os passos em inglês andando pela casa! Dê sete passos contando em inglês, depois conte ao contrário. Perfeita para aprender números brincando!"
     }

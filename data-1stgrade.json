@@ -18,36 +18,16 @@
           "pt": "Até logo, jacaré"
         },
         {
-          "en": "After while, crocodile",
+          "en": "In a while, crocodile",
           "pt": "Daqui a pouco, crocodilo"
-        },
-        {
-          "en": "Not by while, goldfish",
-          "pt": "Mais um tempo, peixe-ouro"
-        },
-        {
-          "en": "Now you gotta go",
-          "pt": "Agora você tem que ir"
-        },
-        {
-          "en": "",
-          "pt": ""
         },
         {
           "en": "See you later, alligator",
           "pt": "Até logo, jacaré"
         },
         {
-          "en": "After while, crocodile",
+          "en": "In a while, crocodile",
           "pt": "Daqui a pouco, crocodilo"
-        },
-        {
-          "en": "See you soon, you silly baboon",
-          "pt": "Até breve, seu macaco bobo"
-        },
-        {
-          "en": "Goodbye!",
-          "pt": "Adeus!"
         }
       ],
       "vocab": [
@@ -62,19 +42,14 @@
           "pt": "crocodilo"
         },
         {
-          "emoji": "🐠",
-          "en": "goldfish",
-          "pt": "peixe-ouro"
-        },
-        {
-          "emoji": "🐵",
-          "en": "baboon",
-          "pt": "babuíno"
-        },
-        {
           "emoji": "👋",
-          "en": "goodbye",
-          "pt": "adeus"
+          "en": "see you later",
+          "pt": "até logo"
+        },
+        {
+          "emoji": "⏰",
+          "en": "in a while",
+          "pt": "daqui a pouco"
         }
       ],
       "tips": "Cante esta música com gestos! Faça o movimento de boca de jacaré/crocodilo com as mãos enquanto canta. As crianças adoram a repetição e os sons divertidos desta canção."
@@ -87,92 +62,78 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3S50coF3ggnWIOjh9qryOW?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Monday, Monday, what do you do?",
-          "pt": "Segunda-feira, segunda-feira, o que você faz?"
+          "en": "Monday, Tuesday, Wednesday, Thursday, Friday",
+          "pt": "Segunda, terça, quarta, quinta, sexta"
         },
         {
-          "en": "I work and play and learn something new",
-          "pt": "Eu trabalho e brinco e aprendo algo novo"
-        },
-        {
-          "en": "Tuesday, Tuesday, what do you do?",
-          "pt": "Terça-feira, terça-feira, o que você faz?"
-        },
-        {
-          "en": "I skip and jump and sing songs too",
-          "pt": "Eu pulo e salto e também canto músicas"
+          "en": "Saturday and Sunday",
+          "pt": "Sábado e domingo"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Wednesday, Wednesday, what do you do?",
-          "pt": "Quarta-feira, quarta-feira, o que você faz?"
+          "en": "Seven days, seven days",
+          "pt": "Sete dias, sete dias"
         },
         {
-          "en": "I paint and play and learn something new",
-          "pt": "Eu pinto e brinco e aprendo algo novo"
-        },
-        {
-          "en": "Thursday, Thursday, what do you do?",
-          "pt": "Quinta-feira, quinta-feira, o que você faz?"
-        },
-        {
-          "en": "I read and dance and eat lunch too",
-          "pt": "Eu leio e danço e também como almoço"
+          "en": "Seven days a week",
+          "pt": "Sete dias por semana"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Friday, Friday, what do you do?",
-          "pt": "Sexta-feira, sexta-feira, o que você faz?"
+          "en": "Monday is the first day",
+          "pt": "Segunda é o primeiro dia"
         },
         {
-          "en": "I laugh and smile and play with you",
-          "pt": "Eu rio e sorrio e brinco com você"
+          "en": "Tuesday is the second day",
+          "pt": "Terça é o segundo dia"
         },
         {
-          "en": "Saturday and Sunday too",
-          "pt": "Sábado e domingo também"
+          "en": "Wednesday is the third day",
+          "pt": "Quarta é o terceiro dia"
         },
         {
-          "en": "Rest and play the whole day through",
-          "pt": "Descanso e brinco o dia todo"
+          "en": "Thursday is the fourth day",
+          "pt": "Quinta é o quarto dia"
+        },
+        {
+          "en": "Friday is the fifth day",
+          "pt": "Sexta é o quinto dia"
+        },
+        {
+          "en": "Saturday is the sixth day",
+          "pt": "Sábado é o sexto dia"
+        },
+        {
+          "en": "Sunday is the seventh day",
+          "pt": "Domingo é o sétimo dia"
         }
       ],
       "vocab": [
         {
           "emoji": "📅",
+          "en": "days",
+          "pt": "dias"
+        },
+        {
+          "emoji": "📆",
+          "en": "week",
+          "pt": "semana"
+        },
+        {
+          "emoji": "🌅",
           "en": "Monday",
           "pt": "segunda-feira"
         },
         {
-          "emoji": "🎨",
-          "en": "paint",
-          "pt": "pintar"
-        },
-        {
-          "emoji": "📖",
-          "en": "read",
-          "pt": "ler"
-        },
-        {
-          "emoji": "💃",
-          "en": "dance",
-          "pt": "dançar"
-        },
-        {
-          "emoji": "😊",
-          "en": "smile",
-          "pt": "sorrir"
-        },
-        {
-          "emoji": "🎉",
-          "en": "play",
-          "pt": "brincar"
+          "emoji": "🗓️",
+          "en": "Sunday",
+          "pt": "domingo"
         }
       ],
       "tips": "Use um calendário enquanto canta! Apontar para cada dia da semana ajuda a criança a associar o nome em inglês com a posição da semana. Faça perguntas: 'What day is today?' durante a semana."
@@ -189,60 +150,44 @@
           "pt": "Como está o tempo?"
         },
         {
-          "en": "It's sunny",
-          "pt": "Está ensolarado"
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
         },
         {
-          "en": "It's sunny, it's sunny, it's sunny today",
-          "pt": "Está ensolarado, está ensolarado, está ensolarado hoje"
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "How's the weather?",
-          "pt": "Como está o tempo?"
+          "en": "Is it sunny?",
+          "pt": "Está ensolarado?"
         },
         {
-          "en": "It's rainy",
-          "pt": "Está chovendo"
+          "en": "Is it rainy?",
+          "pt": "Está chuvoso?"
         },
         {
-          "en": "It's rainy, it's rainy, it's rainy today",
-          "pt": "Está chovendo, está chovendo, está chovendo hoje"
+          "en": "Is it cloudy?",
+          "pt": "Está nublado?"
         },
         {
-          "en": "",
-          "pt": ""
+          "en": "Is it snowy?",
+          "pt": "Está nevando?"
         },
         {
-          "en": "How's the weather?",
-          "pt": "Como está o tempo?"
-        },
-        {
-          "en": "It's cloudy",
-          "pt": "Está nublado"
-        },
-        {
-          "en": "It's cloudy, it's cloudy, it's cloudy today",
-          "pt": "Está nublado, está nublado, está nublado hoje"
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "How's the weather?",
-          "pt": "Como está o tempo?"
-        },
-        {
-          "en": "It's cold",
-          "pt": "Está frio"
-        },
-        {
-          "en": "It's cold, it's cold, it's cold today",
-          "pt": "Está frio, está frio, está frio hoje"
+          "en": "Let's look outside!",
+          "pt": "Vamos olhar lá fora!"
         }
       ],
       "vocab": [
@@ -282,52 +227,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Hello, hello, hello",
-          "pt": "Olá, olá, olá"
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
         },
         {
-          "en": "How are you?",
-          "pt": "Como você está?"
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
         },
         {
-          "en": "Hello, hello, hello",
-          "pt": "Olá, olá, olá"
+          "en": "I'm good!",
+          "pt": "Estou bem!"
         },
         {
-          "en": "How are you?",
-          "pt": "Como você está?"
+          "en": "I'm great!",
+          "pt": "Estou ótimo!"
         },
         {
-          "en": "",
-          "pt": ""
-        },
-        {
-          "en": "I'm fine, thank you",
-          "pt": "Estou bem, obrigado"
-        },
-        {
-          "en": "I'm fine, thank you",
-          "pt": "Estou bem, obrigado"
-        },
-        {
-          "en": "How are you?",
-          "pt": "Como você está?"
+          "en": "I'm wonderful!",
+          "pt": "Estou maravilhoso!"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Very well, thank you",
-          "pt": "Muito bem, obrigado"
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
         },
         {
-          "en": "Very well, thank you",
-          "pt": "Muito bem, obrigado"
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
         },
         {
-          "en": "How are you?",
-          "pt": "Como você está?"
+          "en": "I'm tired.",
+          "pt": "Estou cansado."
+        },
+        {
+          "en": "I'm hungry.",
+          "pt": "Estou com fome."
+        },
+        {
+          "en": "I'm not so good.",
+          "pt": "Não estou muito bem."
         }
       ],
       "vocab": [
@@ -568,36 +509,44 @@
     {
       "id": 8,
       "title": "Jesus Loves Me",
-      "artist": "Super Simple Songs",
+      "artist": "Joey + Rory",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Jesus loves me, this I know.",
-          "pt": "Jesus me ama, isso eu sei."
+          "en": "Jesus loves me, this I know",
+          "pt": "Jesus me ama, isso eu sei"
         },
         {
-          "en": "For the Bible tells me so.",
-          "pt": "Pois a Bíblia me diz assim."
+          "en": "For the Bible tells me so",
+          "pt": "Pois a Bíblia me diz assim"
         },
         {
-          "en": "Little ones to Him belong.",
-          "pt": "Pequenininhos a Ele pertencem."
+          "en": "Little ones to Him belong",
+          "pt": "Os pequeninos a Ele pertencem"
         },
         {
-          "en": "They are weak, but He is strong.",
-          "pt": "Eles são frágeis, mas Ele é forte."
+          "en": "They are weak, but He is strong",
+          "pt": "Eles são fracos, mas Ele é forte"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Jesus loves me, Jesus loves me.",
-          "pt": "Jesus me ama, Jesus me ama."
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
         },
         {
-          "en": "Jesus loves me, yes I know.",
-          "pt": "Jesus me ama, sim, eu sei."
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "The Bible tells me so",
+          "pt": "A Bíblia me diz assim"
         }
       ],
       "vocab": [
@@ -698,37 +647,41 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3gY9yDMADlMzP2VRGXCXtg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
+          "en": "Blue, I see something blue",
+          "pt": "Azul, eu vejo algo azul"
+        },
+        {
+          "en": "Blue, I see something blue",
+          "pt": "Azul, eu vejo algo azul"
+        },
+        {
+          "en": "Blue, blue, blue, blue",
+          "pt": "Azul, azul, azul, azul"
+        },
+        {
           "en": "I see something blue",
           "pt": "Eu vejo algo azul"
         },
         {
-          "en": "Do you? Do you?",
-          "pt": "Você vê? Você vê?"
-        },
-        {
-          "en": "I see something blue",
-          "pt": "Eu vejo algo azul"
-        },
-        {
-          "en": "What is it? What is it?",
-          "pt": "O que é? O que é?"
+          "en": "Find something blue!",
+          "pt": "Encontre algo azul!"
         }
       ],
       "vocab": [
-        {
-          "emoji": "👀",
-          "en": "I see",
-          "pt": "eu vejo"
-        },
         {
           "emoji": "🔵",
           "en": "blue",
           "pt": "azul"
         },
         {
-          "emoji": "❓",
-          "en": "what",
-          "pt": "o que"
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔎",
+          "en": "find",
+          "pt": "encontrar"
         },
         {
           "emoji": "🤔",
@@ -745,37 +698,41 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5GrHtc4Ezue3bevg2iyvph?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
+          "en": "Pink, I see something pink",
+          "pt": "Rosa, eu vejo algo rosa"
+        },
+        {
+          "en": "Pink, I see something pink",
+          "pt": "Rosa, eu vejo algo rosa"
+        },
+        {
+          "en": "Pink, pink, pink, pink",
+          "pt": "Rosa, rosa, rosa, rosa"
+        },
+        {
           "en": "I see something pink",
           "pt": "Eu vejo algo rosa"
         },
         {
-          "en": "Do you? Do you?",
-          "pt": "Você vê? Você vê?"
-        },
-        {
-          "en": "I see something pink",
-          "pt": "Eu vejo algo rosa"
-        },
-        {
-          "en": "What is it? What is it?",
-          "pt": "O que é? O que é?"
+          "en": "Find something pink!",
+          "pt": "Encontre algo rosa!"
         }
       ],
       "vocab": [
-        {
-          "emoji": "👀",
-          "en": "I see",
-          "pt": "eu vejo"
-        },
         {
           "emoji": "🌸",
           "en": "pink",
           "pt": "rosa"
         },
         {
-          "emoji": "❓",
-          "en": "what",
-          "pt": "o que"
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔎",
+          "en": "find",
+          "pt": "encontrar"
         },
         {
           "emoji": "🤔",
@@ -839,20 +796,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3vsJNfedXEL21cFAdIGGkf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Red and yellow make orange",
-          "pt": "Vermelho e amarelo fazem laranja"
+          "en": "Take some blue, take some yellow",
+          "pt": "Pegue um pouco de azul, pegue um pouco de amarelo"
         },
         {
-          "en": "Blue and yellow make green",
-          "pt": "Azul e amarelo fazem verde"
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
         },
         {
-          "en": "Red and blue make purple",
-          "pt": "Vermelho e azul fazem roxo"
+          "en": "Blue and yellow make green!",
+          "pt": "Azul e amarelo fazem verde!"
         },
         {
-          "en": "What color do you see?",
-          "pt": "Que cor você vê?"
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Take some red, take some yellow",
+          "pt": "Pegue um pouco de vermelho, pegue um pouco de amarelo"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Red and yellow make orange!",
+          "pt": "Vermelho e amarelo fazem laranja!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Take some blue, take some red",
+          "pt": "Pegue um pouco de azul, pegue um pouco de vermelho"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Blue and red make purple!",
+          "pt": "Azul e vermelho fazem roxo!"
         }
       ],
       "vocab": [
@@ -887,50 +872,68 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/13djQrzek1niBvXFImpeo3?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "With my heart, I love you",
-          "pt": "Com meu coração, eu amo você"
+          "en": "I can hear with my ears",
+          "pt": "Eu consigo ouvir com meus ouvidos"
         },
         {
-          "en": "With my heart, I do",
-          "pt": "Com meu coração, eu faço"
+          "en": "I can see with my eyes",
+          "pt": "Eu consigo ver com meus olhos"
         },
         {
-          "en": "With my hands, I clap clap",
-          "pt": "Com minhas mãos, eu bato palmas"
+          "en": "I can taste with my mouth",
+          "pt": "Eu consigo sentir sabor com minha boca"
         },
         {
-          "en": "With my feet, I tap tap",
-          "pt": "Com meus pés, eu bato"
+          "en": "I can smell with my nose",
+          "pt": "Eu consigo cheirar com meu nariz"
         },
         {
-          "en": "With my mouth, I say hello",
-          "pt": "Com minha boca, eu digo olá"
+          "en": "I can touch with my hands",
+          "pt": "Eu consigo tocar com minhas mãos"
         },
         {
-          "en": "With my eyes, I wink wink",
-          "pt": "Com meus olhos, eu pisquei pisquei"
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "And I can feel with my heart",
+          "pt": "E eu consigo sentir com meu coração"
+        },
+        {
+          "en": "The most important part",
+          "pt": "A parte mais importante"
         }
       ],
       "vocab": [
         {
+          "emoji": "👂",
+          "en": "hear",
+          "pt": "ouvir"
+        },
+        {
+          "emoji": "👀",
+          "en": "see",
+          "pt": "ver"
+        },
+        {
+          "emoji": "👅",
+          "en": "taste",
+          "pt": "sentir sabor"
+        },
+        {
+          "emoji": "👃",
+          "en": "smell",
+          "pt": "cheirar"
+        },
+        {
+          "emoji": "🖐️",
+          "en": "touch",
+          "pt": "tocar"
+        },
+        {
           "emoji": "❤️",
           "en": "heart",
           "pt": "coração"
-        },
-        {
-          "emoji": "👏",
-          "en": "clap",
-          "pt": "bater palmas"
-        },
-        {
-          "emoji": "👋",
-          "en": "hello",
-          "pt": "olá"
-        },
-        {
-          "emoji": "😉",
-          "en": "wink",
-          "pt": "piscar"
         }
       ],
       "tips": "Cante e faça os gestos junto com seu filho: coloque a mão no coração, bata palmas, levante os pés, acene e pisque. Isso ajuda na memorização e no desenvolvimento motor."

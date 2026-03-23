@@ -13,23 +13,74 @@
       "spotifyId": "1vdIChEmEuPb5GbY19b0Hu",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1vdIChEmEuPb5GbY19b0Hu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Red, red, red", "pt": "Vermelho, vermelho, vermelho"},
-        {"en": "Orange, orange, orange", "pt": "Laranja, laranja, laranja"},
-        {"en": "Yellow, yellow, yellow", "pt": "Amarelo, amarelo, amarelo"},
-        {"en": "Green, green, green", "pt": "Verde, verde, verde"},
-        {"en": "Blue, blue, blue", "pt": "Azul, azul, azul"},
-        {"en": "Purple, purple, purple", "pt": "Roxo, roxo, roxo"},
-        {"en": "", "pt": ""},
-        {"en": "Rainbow colors, rainbow colors", "pt": "Cores do arco-íris, cores do arco-íris"},
-        {"en": "Can you see them all?", "pt": "Você consegue ver todas elas?"}
+        {
+          "en": "Red, red, red",
+          "pt": "Vermelho, vermelho, vermelho"
+        },
+        {
+          "en": "Orange, orange, orange",
+          "pt": "Laranja, laranja, laranja"
+        },
+        {
+          "en": "Yellow, yellow, yellow",
+          "pt": "Amarelo, amarelo, amarelo"
+        },
+        {
+          "en": "Green, green, green",
+          "pt": "Verde, verde, verde"
+        },
+        {
+          "en": "Blue, blue, blue",
+          "pt": "Azul, azul, azul"
+        },
+        {
+          "en": "Purple, purple, purple",
+          "pt": "Roxo, roxo, roxo"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Rainbow colors, rainbow colors",
+          "pt": "Cores do arco-íris, cores do arco-íris"
+        },
+        {
+          "en": "Can you see them all?",
+          "pt": "Você consegue ver todas elas?"
+        }
       ],
       "vocab": [
-        {"emoji": "🔴", "en": "red", "pt": "vermelho"},
-        {"emoji": "🟠", "en": "orange", "pt": "laranja"},
-        {"emoji": "🟡", "en": "yellow", "pt": "amarelo"},
-        {"emoji": "🟢", "en": "green", "pt": "verde"},
-        {"emoji": "🔵", "en": "blue", "pt": "azul"},
-        {"emoji": "🟣", "en": "purple", "pt": "roxo"}
+        {
+          "emoji": "🔴",
+          "en": "red",
+          "pt": "vermelho"
+        },
+        {
+          "emoji": "🟠",
+          "en": "orange",
+          "pt": "laranja"
+        },
+        {
+          "emoji": "🟡",
+          "en": "yellow",
+          "pt": "amarelo"
+        },
+        {
+          "emoji": "🟢",
+          "en": "green",
+          "pt": "verde"
+        },
+        {
+          "emoji": "🔵",
+          "en": "blue",
+          "pt": "azul"
+        },
+        {
+          "emoji": "🟣",
+          "en": "purple",
+          "pt": "roxo"
+        }
       ],
       "tips": "Assista a música com seu filho e peça para apontar objetos da casa que correspondem a cada cor mencionada. Repita os nomes das cores em voz alta junto com a música."
     },
@@ -40,19 +91,44 @@
       "spotifyId": "58v4Hy6GOfETyJbz2lCwKV",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/58v4Hy6GOfETyJbz2lCwKV?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "See you later, alligator", "pt": "Até mais, jacaré"},
-        {"en": "After a while, crocodile", "pt": "Daqui a pouco, crocodilo"},
-        {"en": "In a while, crocodile", "pt": "Em um tempo, crocodilo"},
-        {"en": "See you later, alligator", "pt": "Até mais, jacaré"},
-        {"en": "", "pt": ""},
-        {"en": "Now shut the door", "pt": "Agora feche a porta"},
-        {"en": "Don't forget the key", "pt": "Não esqueça a chave"}
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, crocodilo"
+        },
+        {
+          "en": "See you later, alligator",
+          "pt": "Até logo, jacaré"
+        },
+        {
+          "en": "In a while, crocodile",
+          "pt": "Daqui a pouco, crocodilo"
+        }
       ],
       "vocab": [
-        {"emoji": "👋", "en": "see you later", "pt": "até mais"},
-        {"emoji": "🐊", "en": "alligator", "pt": "jacaré"},
-        {"emoji": "🐉", "en": "crocodile", "pt": "crocodilo"},
-        {"emoji": "🚪", "en": "door", "pt": "porta"}
+        {
+          "emoji": "🐊",
+          "en": "alligator",
+          "pt": "jacaré"
+        },
+        {
+          "emoji": "🐊",
+          "en": "crocodile",
+          "pt": "crocodilo"
+        },
+        {
+          "emoji": "👋",
+          "en": "see you later",
+          "pt": "até logo"
+        },
+        {
+          "emoji": "⏰",
+          "en": "in a while",
+          "pt": "daqui a pouco"
+        }
       ],
       "tips": "Use essa música como despedida divertida no fim do dia. Pratique os gestos de aceno enquanto canta. Peça para seu filho responder 'After a while, crocodile!' com entusiasmo."
     },
@@ -63,18 +139,70 @@
       "spotifyId": "13djQrzek1niBvXFImpeo3",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/13djQrzek1niBvXFImpeo3?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "With my heart, I love you", "pt": "Com meu coração, eu amo você"},
-        {"en": "With my heart, I do", "pt": "Com meu coração, eu faço"},
-        {"en": "With my hands, I clap clap", "pt": "Com minhas mãos, eu bato palmas"},
-        {"en": "With my feet, I tap tap", "pt": "Com meus pés, eu bato"},
-        {"en": "With my mouth, I say hello", "pt": "Com minha boca, eu digo olá"},
-        {"en": "With my eyes, I wink wink", "pt": "Com meus olhos, eu pisquei pisquei"}
+        {
+          "en": "I can hear with my ears",
+          "pt": "Eu consigo ouvir com meus ouvidos"
+        },
+        {
+          "en": "I can see with my eyes",
+          "pt": "Eu consigo ver com meus olhos"
+        },
+        {
+          "en": "I can taste with my mouth",
+          "pt": "Eu consigo sentir sabor com minha boca"
+        },
+        {
+          "en": "I can smell with my nose",
+          "pt": "Eu consigo cheirar com meu nariz"
+        },
+        {
+          "en": "I can touch with my hands",
+          "pt": "Eu consigo tocar com minhas mãos"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "And I can feel with my heart",
+          "pt": "E eu consigo sentir com meu coração"
+        },
+        {
+          "en": "The most important part",
+          "pt": "A parte mais importante"
+        }
       ],
       "vocab": [
-        {"emoji": "❤️", "en": "heart", "pt": "coração"},
-        {"emoji": "👏", "en": "clap", "pt": "bater palmas"},
-        {"emoji": "👋", "en": "hello", "pt": "olá"},
-        {"emoji": "😉", "en": "wink", "pt": "piscar"}
+        {
+          "emoji": "👂",
+          "en": "hear",
+          "pt": "ouvir"
+        },
+        {
+          "emoji": "👀",
+          "en": "see",
+          "pt": "ver"
+        },
+        {
+          "emoji": "👅",
+          "en": "taste",
+          "pt": "sentir sabor"
+        },
+        {
+          "emoji": "👃",
+          "en": "smell",
+          "pt": "cheirar"
+        },
+        {
+          "emoji": "🖐️",
+          "en": "touch",
+          "pt": "tocar"
+        },
+        {
+          "emoji": "❤️",
+          "en": "heart",
+          "pt": "coração"
+        }
       ],
       "tips": "Cante e faça os gestos junto com seu filho: coloque a mão no coração, bata palmas, levante os pés, acene e pisque. Isso ajuda na memorização e no desenvolvimento motor."
     },
@@ -85,21 +213,77 @@
       "spotifyId": "6wBgOuK1eVlGKNEHDdziuN",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6wBgOuK1eVlGKNEHDdziuN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "How's the weather?", "pt": "Como está o tempo?"},
-        {"en": "It's sunny", "pt": "Está ensolarado"},
-        {"en": "It's rainy", "pt": "Está chovendo"},
-        {"en": "It's windy", "pt": "Está ventando"},
-        {"en": "It's snowy", "pt": "Está nevando"},
-        {"en": "It's cloudy", "pt": "Está nublado"},
-        {"en": "", "pt": ""},
-        {"en": "How's the weather today?", "pt": "Como está o tempo hoje?"}
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Is it sunny?",
+          "pt": "Está ensolarado?"
+        },
+        {
+          "en": "Is it rainy?",
+          "pt": "Está chuvoso?"
+        },
+        {
+          "en": "Is it cloudy?",
+          "pt": "Está nublado?"
+        },
+        {
+          "en": "Is it snowy?",
+          "pt": "Está nevando?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside!",
+          "pt": "Vamos olhar lá fora!"
+        }
       ],
       "vocab": [
-        {"emoji": "☀️", "en": "sunny", "pt": "ensolarado"},
-        {"emoji": "🌧️", "en": "rainy", "pt": "chuvoso"},
-        {"emoji": "🌬️", "en": "windy", "pt": "ventoso"},
-        {"emoji": "❄️", "en": "snowy", "pt": "nevado"},
-        {"emoji": "☁️", "en": "cloudy", "pt": "nublado"}
+        {
+          "emoji": "☀️",
+          "en": "sunny",
+          "pt": "ensolarado"
+        },
+        {
+          "emoji": "🌧️",
+          "en": "rainy",
+          "pt": "chuvoso"
+        },
+        {
+          "emoji": "🌬️",
+          "en": "windy",
+          "pt": "ventoso"
+        },
+        {
+          "emoji": "❄️",
+          "en": "snowy",
+          "pt": "nevado"
+        },
+        {
+          "emoji": "☁️",
+          "en": "cloudy",
+          "pt": "nublado"
+        }
       ],
       "tips": "Todo dia ao acordar, cante essa música e depois olhem pela janela para descrever o tempo real em inglês. Isso cria uma conexão com o ambiente ao redor."
     },
@@ -110,20 +294,67 @@
       "spotifyId": "4tyykhuf5Dws6wDpGYaqF0",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Hello, hello", "pt": "Olá, olá"},
-        {"en": "How are you?", "pt": "Como você está?"},
-        {"en": "I'm fine", "pt": "Estou bem"},
-        {"en": "How are you?", "pt": "Como você está?"},
-        {"en": "", "pt": ""},
-        {"en": "Hello, hello", "pt": "Olá, olá"},
-        {"en": "It's nice to see you", "pt": "É bom vê-lo"},
-        {"en": "Hello, hello", "pt": "Olá, olá"},
-        {"en": "How are you?", "pt": "Como você está?"}
+        {
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
+        },
+        {
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
+        },
+        {
+          "en": "I'm good!",
+          "pt": "Estou bem!"
+        },
+        {
+          "en": "I'm great!",
+          "pt": "Estou ótimo!"
+        },
+        {
+          "en": "I'm wonderful!",
+          "pt": "Estou maravilhoso!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
+        },
+        {
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
+        },
+        {
+          "en": "I'm tired.",
+          "pt": "Estou cansado."
+        },
+        {
+          "en": "I'm hungry.",
+          "pt": "Estou com fome."
+        },
+        {
+          "en": "I'm not so good.",
+          "pt": "Não estou muito bem."
+        }
       ],
       "vocab": [
-        {"emoji": "👋", "en": "hello", "pt": "olá"},
-        {"emoji": "😊", "en": "how are you", "pt": "como você está"},
-        {"emoji": "✨", "en": "nice", "pt": "legal/bom"}
+        {
+          "emoji": "👋",
+          "en": "hello",
+          "pt": "olá"
+        },
+        {
+          "emoji": "😊",
+          "en": "how are you",
+          "pt": "como você está"
+        },
+        {
+          "emoji": "✨",
+          "en": "nice",
+          "pt": "legal/bom"
+        }
       ],
       "tips": "Use essa música como saudação matinal. Pratique o diálogo: você canta 'Hello, hello, how are you?' e seu filho responde 'I'm fine, how are you?'. Repita várias vezes."
     },
@@ -134,16 +365,44 @@
       "spotifyId": "3pN321e9ZpXroyeyovmRtf",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3pN321e9ZpXroyeyovmRtf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Hello, hello, hello everyone", "pt": "Olá, olá, olá a todos"},
-        {"en": "Hello, hello, hello to you", "pt": "Olá, olá, olá para você"},
-        {"en": "Hello, hello, hello to me", "pt": "Olá, olá, olá para mim"},
-        {"en": "Hello, hello, how do you do?", "pt": "Olá, olá, como você está?"}
+        {
+          "en": "Hello, hello, hello everyone",
+          "pt": "Olá, olá, olá a todos"
+        },
+        {
+          "en": "Hello, hello, hello to you",
+          "pt": "Olá, olá, olá para você"
+        },
+        {
+          "en": "Hello, hello, hello to me",
+          "pt": "Olá, olá, olá para mim"
+        },
+        {
+          "en": "Hello, hello, how do you do?",
+          "pt": "Olá, olá, como você está?"
+        }
       ],
       "vocab": [
-        {"emoji": "👋", "en": "hello", "pt": "olá"},
-        {"emoji": "🫵", "en": "you", "pt": "você"},
-        {"emoji": "🙋", "en": "me", "pt": "eu/mim"},
-        {"emoji": "👨‍👩‍👧‍👦", "en": "everyone", "pt": "todos"}
+        {
+          "emoji": "👋",
+          "en": "hello",
+          "pt": "olá"
+        },
+        {
+          "emoji": "🫵",
+          "en": "you",
+          "pt": "você"
+        },
+        {
+          "emoji": "🙋",
+          "en": "me",
+          "pt": "eu/mim"
+        },
+        {
+          "emoji": "👨‍👩‍👧‍👦",
+          "en": "everyone",
+          "pt": "todos"
+        }
       ],
       "tips": "Cante apontando para diferentes pessoas na casa (papai, mamãe, irmão, etc). Deixe seu filho fazer o mesmo. Assim ele aprende 'you' e 'me' de forma lúdica."
     },
@@ -154,20 +413,60 @@
       "spotifyId": "4jKlouPlVZOkuRwyBpgLPN",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4jKlouPlVZOkuRwyBpgLPN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "One little finger, tap tap tap", "pt": "Um dedo pequenino, toque toque toque"},
-        {"en": "Point up high, point down low", "pt": "Aponte para cima, aponte para baixo"},
-        {"en": "", "pt": ""},
-        {"en": "Two little fingers, tap tap tap", "pt": "Dois dedos pequenos, toque toque toque"},
-        {"en": "Point up high, point down low", "pt": "Aponte para cima, aponte para baixo"},
-        {"en": "", "pt": ""},
-        {"en": "Five little fingers, tap tap tap", "pt": "Cinco dedos pequenos, toque toque toque"},
-        {"en": "Point up high, point down low", "pt": "Aponte para cima, aponte para baixo"}
+        {
+          "en": "One little finger, tap tap tap",
+          "pt": "Um dedo pequenino, toque toque toque"
+        },
+        {
+          "en": "Point up high, point down low",
+          "pt": "Aponte para cima, aponte para baixo"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Two little fingers, tap tap tap",
+          "pt": "Dois dedos pequenos, toque toque toque"
+        },
+        {
+          "en": "Point up high, point down low",
+          "pt": "Aponte para cima, aponte para baixo"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Five little fingers, tap tap tap",
+          "pt": "Cinco dedos pequenos, toque toque toque"
+        },
+        {
+          "en": "Point up high, point down low",
+          "pt": "Aponte para cima, aponte para baixo"
+        }
       ],
       "vocab": [
-        {"emoji": "👆", "en": "finger", "pt": "dedo"},
-        {"emoji": "☝️", "en": "point", "pt": "apontar"},
-        {"emoji": "⬆️", "en": "up", "pt": "para cima"},
-        {"emoji": "⬇️", "en": "down", "pt": "para baixo"}
+        {
+          "emoji": "👆",
+          "en": "finger",
+          "pt": "dedo"
+        },
+        {
+          "emoji": "☝️",
+          "en": "point",
+          "pt": "apontar"
+        },
+        {
+          "emoji": "⬆️",
+          "en": "up",
+          "pt": "para cima"
+        },
+        {
+          "emoji": "⬇️",
+          "en": "down",
+          "pt": "para baixo"
+        }
       ],
       "tips": "Cante e levante os dedos contando: 1, 2, 5. Peça para seu filho fazer o mesmo. Depois, inverta: você levanta os dedos e ele conta em inglês. Ótimo para motricidade fina!"
     },
@@ -178,15 +477,60 @@
       "spotifyId": "0FbsYlb1ZMgTICWE3ILQGt",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0FbsYlb1ZMgTICWE3ILQGt?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Bye bye, goodbye", "pt": "Tchau tchau, adeus"},
-        {"en": "See you later", "pt": "Até mais"},
-        {"en": "Bye bye, goodbye", "pt": "Tchau tchau, adeus"},
-        {"en": "See you tomorrow", "pt": "Até amanhã"}
+        {
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
+        },
+        {
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
+        },
+        {
+          "en": "I can clap my hands",
+          "pt": "Eu consigo bater palmas"
+        },
+        {
+          "en": "I can stamp my feet",
+          "pt": "Eu consigo bater os pés"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
+        },
+        {
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
+        },
+        {
+          "en": "Goodbye!",
+          "pt": "Adeus!"
+        }
       ],
       "vocab": [
-        {"emoji": "👋", "en": "bye", "pt": "tchau"},
-        {"emoji": "👏", "en": "goodbye", "pt": "adeus"},
-        {"emoji": "🌞", "en": "tomorrow", "pt": "amanhã"}
+        {
+          "emoji": "👋",
+          "en": "Bye",
+          "pt": "Tchau"
+        },
+        {
+          "emoji": "👋",
+          "en": "Goodbye",
+          "pt": "Adeus"
+        },
+        {
+          "emoji": "👏",
+          "en": "Clap",
+          "pt": "Bater palmas"
+        },
+        {
+          "emoji": "🦶",
+          "en": "Stamp",
+          "pt": "Bater os pés"
+        }
       ],
       "tips": "Use essa música como despedida antes de dormir ou quando se separar durante o dia. O tom alegre faz da separação um momento divertido, não triste."
     },
@@ -197,21 +541,64 @@
       "spotifyId": "4uFndojGmzFdSorhvvH7B4",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Jesus loves me, this I know", "pt": "Jesus me ama, isto eu sei"},
-        {"en": "For the Bible tells me so", "pt": "Pois a Bíblia me diz assim"},
-        {"en": "Little ones to Him belong", "pt": "Os pequeninos a Ele pertencem"},
-        {"en": "They are weak, but He is strong", "pt": "Eles são fracos, mas Ele é forte"},
-        {"en": "", "pt": ""},
-        {"en": "Yes, Jesus loves me", "pt": "Sim, Jesus me ama"},
-        {"en": "Yes, Jesus loves me", "pt": "Sim, Jesus me ama"},
-        {"en": "Yes, Jesus loves me", "pt": "Sim, Jesus me ama"},
-        {"en": "The Bible tells me so", "pt": "A Bíblia me diz assim"}
+        {
+          "en": "Jesus loves me, this I know",
+          "pt": "Jesus me ama, isso eu sei"
+        },
+        {
+          "en": "For the Bible tells me so",
+          "pt": "Pois a Bíblia me diz assim"
+        },
+        {
+          "en": "Little ones to Him belong",
+          "pt": "Os pequeninos a Ele pertencem"
+        },
+        {
+          "en": "They are weak, but He is strong",
+          "pt": "Eles são fracos, mas Ele é forte"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "The Bible tells me so",
+          "pt": "A Bíblia me diz assim"
+        }
       ],
       "vocab": [
-        {"emoji": "😇", "en": "Jesus", "pt": "Jesus"},
-        {"emoji": "❤️", "en": "loves", "pt": "ama"},
-        {"emoji": "📖", "en": "Bible", "pt": "Bíblia"},
-        {"emoji": "💪", "en": "strong", "pt": "forte"}
+        {
+          "emoji": "😇",
+          "en": "Jesus",
+          "pt": "Jesus"
+        },
+        {
+          "emoji": "❤️",
+          "en": "loves",
+          "pt": "ama"
+        },
+        {
+          "emoji": "📖",
+          "en": "Bible",
+          "pt": "Bíblia"
+        },
+        {
+          "emoji": "💪",
+          "en": "strong",
+          "pt": "forte"
+        }
       ],
       "tips": "Cante essa música com carinho, enfatizando o amor. Aproveite para reforçar os valores cristãos da escola. Pergunte a seu filho: 'Jesus te ama?' e deixe-o responder com entusiasmo."
     },
@@ -222,17 +609,48 @@
       "spotifyId": "3gY9yDMADlMzP2VRGXCXtg",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3gY9yDMADlMzP2VRGXCXtg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "I see something blue", "pt": "Eu vejo algo azul"},
-        {"en": "Can you guess what it is?", "pt": "Consegue adivinhar o que é?"},
-        {"en": "", "pt": ""},
-        {"en": "I see something blue", "pt": "Eu vejo algo azul"},
-        {"en": "And it's something you can wear", "pt": "E é algo que você pode vestir"}
+        {
+          "en": "Blue, I see something blue",
+          "pt": "Azul, eu vejo algo azul"
+        },
+        {
+          "en": "Blue, I see something blue",
+          "pt": "Azul, eu vejo algo azul"
+        },
+        {
+          "en": "Blue, blue, blue, blue",
+          "pt": "Azul, azul, azul, azul"
+        },
+        {
+          "en": "I see something blue",
+          "pt": "Eu vejo algo azul"
+        },
+        {
+          "en": "Find something blue!",
+          "pt": "Encontre algo azul!"
+        }
       ],
       "vocab": [
-        {"emoji": "👀", "en": "see", "pt": "ver"},
-        {"emoji": "🔵", "en": "blue", "pt": "azul"},
-        {"emoji": "❓", "en": "guess", "pt": "adivinhar"},
-        {"emoji": "👕", "en": "wear", "pt": "vestir"}
+        {
+          "emoji": "🔵",
+          "en": "blue",
+          "pt": "azul"
+        },
+        {
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔎",
+          "en": "find",
+          "pt": "encontrar"
+        },
+        {
+          "emoji": "🤔",
+          "en": "something",
+          "pt": "algo"
+        }
       ],
       "tips": "Jogue esse jogo em casa! Você começa: 'I see something blue' e seu filho procura pela casa objetos azuis e tenta adivinhar. Depois, deixe ele ser o 'escolhedor' de cores."
     },
@@ -243,17 +661,48 @@
       "spotifyId": "5GrHtc4Ezue3bevg2iyvph",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5GrHtc4Ezue3bevg2iyvph?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "I see something pink", "pt": "Eu vejo algo rosa"},
-        {"en": "Can you guess what it is?", "pt": "Consegue adivinhar o que é?"},
-        {"en": "", "pt": ""},
-        {"en": "I see something pink", "pt": "Eu vejo algo rosa"},
-        {"en": "And it's something that is sweet", "pt": "E é algo que é doce"}
+        {
+          "en": "Pink, I see something pink",
+          "pt": "Rosa, eu vejo algo rosa"
+        },
+        {
+          "en": "Pink, I see something pink",
+          "pt": "Rosa, eu vejo algo rosa"
+        },
+        {
+          "en": "Pink, pink, pink, pink",
+          "pt": "Rosa, rosa, rosa, rosa"
+        },
+        {
+          "en": "I see something pink",
+          "pt": "Eu vejo algo rosa"
+        },
+        {
+          "en": "Find something pink!",
+          "pt": "Encontre algo rosa!"
+        }
       ],
       "vocab": [
-        {"emoji": "👀", "en": "see", "pt": "ver"},
-        {"emoji": "🩷", "en": "pink", "pt": "rosa"},
-        {"emoji": "❓", "en": "guess", "pt": "adivinhar"},
-        {"emoji": "🍭", "en": "sweet", "pt": "doce"}
+        {
+          "emoji": "🌸",
+          "en": "pink",
+          "pt": "rosa"
+        },
+        {
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔎",
+          "en": "find",
+          "pt": "encontrar"
+        },
+        {
+          "emoji": "🤔",
+          "en": "something",
+          "pt": "algo"
+        }
       ],
       "tips": "Similar à música azul, mas agora procuram por algo rosa! Crie uma brincadeira de charada: você canta a música e descreve algo rosa, e seu filho tenta adivinhar antes da resposta chegar."
     },
@@ -264,16 +713,44 @@
       "spotifyId": "4ofg4Jc82bXC8PdoMrglgg",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4ofg4Jc82bXC8PdoMrglgg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Row, row, row your boat", "pt": "Remar, remar, remar seu barco"},
-        {"en": "Gently down the stream", "pt": "Suavemente rio abaixo"},
-        {"en": "Merrily, merrily, merrily, merrily", "pt": "Alegremente, alegremente, alegremente, alegremente"},
-        {"en": "Life is but a dream", "pt": "A vida é apenas um sonho"}
+        {
+          "en": "Row, row, row your boat",
+          "pt": "Remar, remar, remar seu barco"
+        },
+        {
+          "en": "Gently down the stream",
+          "pt": "Suavemente rio abaixo"
+        },
+        {
+          "en": "Merrily, merrily, merrily, merrily",
+          "pt": "Alegremente, alegremente, alegremente, alegremente"
+        },
+        {
+          "en": "Life is but a dream",
+          "pt": "A vida é apenas um sonho"
+        }
       ],
       "vocab": [
-        {"emoji": "🚣", "en": "row", "pt": "remar"},
-        {"emoji": "⛵", "en": "boat", "pt": "barco"},
-        {"emoji": "💧", "en": "stream", "pt": "rio/riacho"},
-        {"emoji": "😊", "en": "merrily", "pt": "alegremente"}
+        {
+          "emoji": "🚣",
+          "en": "row",
+          "pt": "remar"
+        },
+        {
+          "emoji": "⛵",
+          "en": "boat",
+          "pt": "barco"
+        },
+        {
+          "emoji": "💧",
+          "en": "stream",
+          "pt": "rio/riacho"
+        },
+        {
+          "emoji": "😊",
+          "en": "merrily",
+          "pt": "alegremente"
+        }
       ],
       "tips": "Sente-se frente a frente com seu filho e façam o movimento de remar juntos enquanto cantam. Podem cantarolar a música como 'round' (cânone) para aumentar a diversão e o aprendizado."
     },
@@ -284,18 +761,72 @@
       "spotifyId": "3vsJNfedXEL21cFAdIGGkf",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3vsJNfedXEL21cFAdIGGkf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Red and yellow makes orange", "pt": "Vermelho e amarelo faz laranja"},
-        {"en": "Red and blue makes purple", "pt": "Vermelho e azul faz roxo"},
-        {"en": "Blue and yellow makes green", "pt": "Azul e amarelo faz verde"},
-        {"en": "", "pt": ""},
-        {"en": "Mixing colors, mixing colors", "pt": "Misturando cores, misturando cores"},
-        {"en": "See what you can make", "pt": "Veja o que você pode fazer"}
+        {
+          "en": "Take some blue, take some yellow",
+          "pt": "Pegue um pouco de azul, pegue um pouco de amarelo"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Blue and yellow make green!",
+          "pt": "Azul e amarelo fazem verde!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Take some red, take some yellow",
+          "pt": "Pegue um pouco de vermelho, pegue um pouco de amarelo"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Red and yellow make orange!",
+          "pt": "Vermelho e amarelo fazem laranja!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Take some blue, take some red",
+          "pt": "Pegue um pouco de azul, pegue um pouco de vermelho"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Blue and red make purple!",
+          "pt": "Azul e vermelho fazem roxo!"
+        }
       ],
       "vocab": [
-        {"emoji": "🎨", "en": "mixing", "pt": "misturando"},
-        {"emoji": "🟢", "en": "green", "pt": "verde"},
-        {"emoji": "🟣", "en": "purple", "pt": "roxo"},
-        {"emoji": "🟠", "en": "orange", "pt": "laranja"}
+        {
+          "emoji": "🎨",
+          "en": "mixing",
+          "pt": "misturando"
+        },
+        {
+          "emoji": "🟢",
+          "en": "green",
+          "pt": "verde"
+        },
+        {
+          "emoji": "🟣",
+          "en": "purple",
+          "pt": "roxo"
+        },
+        {
+          "emoji": "🟠",
+          "en": "orange",
+          "pt": "laranja"
+        }
       ],
       "tips": "Pratique com tintas de dedo, plasticina ou até comida colorida! Deixe seu filho experimentar misturar as cores enquanto canta a música. É aprendizado multissensorial."
     },
@@ -306,25 +837,80 @@
       "spotifyId": "3S50coF3ggnWIOjh9qryOW",
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3S50coF3ggnWIOjh9qryOW?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
-        {"en": "Monday, Tuesday, Wednesday, Thursday, Friday", "pt": "Segunda, terça, quarta, quinta, sexta"},
-        {"en": "Saturday and Sunday", "pt": "Sábado e domingo"},
-        {"en": "", "pt": ""},
-        {"en": "Seven days, seven days", "pt": "Sete dias, sete dias"},
-        {"en": "Seven days a week", "pt": "Sete dias por semana"},
-        {"en": "", "pt": ""},
-        {"en": "Monday is the first day", "pt": "Segunda é o primeiro dia"},
-        {"en": "Tuesday is the second day", "pt": "Terça é o segundo dia"},
-        {"en": "Wednesday is the third day", "pt": "Quarta é o terceiro dia"},
-        {"en": "Thursday is the fourth day", "pt": "Quinta é o quarto dia"},
-        {"en": "Friday is the fifth day", "pt": "Sexta é o quinto dia"},
-        {"en": "Saturday is the sixth day", "pt": "Sábado é o sexto dia"},
-        {"en": "Sunday is the seventh day", "pt": "Domingo é o sétimo dia"}
+        {
+          "en": "Monday, Tuesday, Wednesday, Thursday, Friday",
+          "pt": "Segunda, terça, quarta, quinta, sexta"
+        },
+        {
+          "en": "Saturday and Sunday",
+          "pt": "Sábado e domingo"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Seven days, seven days",
+          "pt": "Sete dias, sete dias"
+        },
+        {
+          "en": "Seven days a week",
+          "pt": "Sete dias por semana"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Monday is the first day",
+          "pt": "Segunda é o primeiro dia"
+        },
+        {
+          "en": "Tuesday is the second day",
+          "pt": "Terça é o segundo dia"
+        },
+        {
+          "en": "Wednesday is the third day",
+          "pt": "Quarta é o terceiro dia"
+        },
+        {
+          "en": "Thursday is the fourth day",
+          "pt": "Quinta é o quarto dia"
+        },
+        {
+          "en": "Friday is the fifth day",
+          "pt": "Sexta é o quinto dia"
+        },
+        {
+          "en": "Saturday is the sixth day",
+          "pt": "Sábado é o sexto dia"
+        },
+        {
+          "en": "Sunday is the seventh day",
+          "pt": "Domingo é o sétimo dia"
+        }
       ],
       "vocab": [
-        {"emoji": "📅", "en": "days", "pt": "dias"},
-        {"emoji": "📆", "en": "week", "pt": "semana"},
-        {"emoji": "🌅", "en": "Monday", "pt": "segunda-feira"},
-        {"emoji": "🗓️", "en": "Sunday", "pt": "domingo"}
+        {
+          "emoji": "📅",
+          "en": "days",
+          "pt": "dias"
+        },
+        {
+          "emoji": "📆",
+          "en": "week",
+          "pt": "semana"
+        },
+        {
+          "emoji": "🌅",
+          "en": "Monday",
+          "pt": "segunda-feira"
+        },
+        {
+          "emoji": "🗓️",
+          "en": "Sunday",
+          "pt": "domingo"
+        }
       ],
       "tips": "Crie um calendário visual na parede com os dias da semana em inglês. Todo dia ao acordar, aponte e cante qual é o dia. Isso ajuda na sequência numérica e temporal."
     }

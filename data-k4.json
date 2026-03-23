@@ -13,20 +13,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4tyykhuf5Dws6wDpGYaqF0?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Hello, hello, how are you?",
-          "pt": "Olá, olá, como você está?"
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
         },
         {
-          "en": "I'm fine, thank you. How are you?",
-          "pt": "Estou bem, obrigado. E você?"
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
         },
         {
-          "en": "Hello, hello, how are you?",
-          "pt": "Olá, olá, como você está?"
+          "en": "I'm good!",
+          "pt": "Estou bem!"
         },
         {
-          "en": "I'm fine, thank you. How are you?",
-          "pt": "Estou bem, obrigado. E você?"
+          "en": "I'm great!",
+          "pt": "Estou ótimo!"
+        },
+        {
+          "en": "I'm wonderful!",
+          "pt": "Estou maravilhoso!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Hello, hello",
+          "pt": "Olá, olá"
+        },
+        {
+          "en": "Hello, how are you?",
+          "pt": "Olá, como você está?"
+        },
+        {
+          "en": "I'm tired.",
+          "pt": "Estou cansado."
+        },
+        {
+          "en": "I'm hungry.",
+          "pt": "Estou com fome."
+        },
+        {
+          "en": "I'm not so good.",
+          "pt": "Não estou muito bem."
         }
       ],
       "vocab": [
@@ -154,42 +182,58 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0FbsYlb1ZMgTICWE3ILQGt?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Bye bye, goodbye. See you later, alligator",
-          "pt": "Tchau, tchau, adeus. Até logo, jacaré"
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
         },
         {
-          "en": "In a while, crocodile. Bye bye, goodbye",
-          "pt": "Daqui a pouco, jacaré. Tchau, tchau, adeus"
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
         },
         {
-          "en": "See you later, alligator",
-          "pt": "Até logo, jacaré"
+          "en": "I can clap my hands",
+          "pt": "Eu consigo bater palmas"
         },
         {
-          "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, jacaré"
+          "en": "I can stamp my feet",
+          "pt": "Eu consigo bater os pés"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
+        },
+        {
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
+        },
+        {
+          "en": "Goodbye!",
+          "pt": "Adeus!"
         }
       ],
       "vocab": [
         {
           "emoji": "👋",
-          "en": "bye",
-          "pt": "tchau"
+          "en": "Bye",
+          "pt": "Tchau"
         },
         {
-          "emoji": "🐊",
-          "en": "alligator",
-          "pt": "jacaré"
+          "emoji": "👋",
+          "en": "Goodbye",
+          "pt": "Adeus"
         },
         {
-          "emoji": "👀",
-          "en": "see you later",
-          "pt": "até logo"
+          "emoji": "👏",
+          "en": "Clap",
+          "pt": "Bater palmas"
         },
         {
-          "emoji": "⏰",
-          "en": "in a while",
-          "pt": "daqui a pouco"
+          "emoji": "🦶",
+          "en": "Stamp",
+          "pt": "Bater os pés"
         }
       ],
       "tips": "Use essa música para as despedidas diárias: na porta da escola, antes de dormir, ou ao se despedir de amiguinhos. Faz a separação mais divertida!"
@@ -206,15 +250,35 @@
         },
         {
           "en": "For the Bible tells me so",
-          "pt": "Pois a Bíblia me conta assim"
+          "pt": "Pois a Bíblia me diz assim"
         },
         {
-          "en": "Little ones to him belong",
-          "pt": "Os pequenos a Ele pertencem"
+          "en": "Little ones to Him belong",
+          "pt": "Os pequeninos a Ele pertencem"
         },
         {
-          "en": "They are weak, but he is strong",
+          "en": "They are weak, but He is strong",
           "pt": "Eles são fracos, mas Ele é forte"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "Yes, Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "The Bible tells me so",
+          "pt": "A Bíblia me diz assim"
         }
       ],
       "vocab": [
@@ -305,37 +369,41 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3gY9yDMADlMzP2VRGXCXtg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
+          "en": "Blue, I see something blue",
+          "pt": "Azul, eu vejo algo azul"
+        },
+        {
+          "en": "Blue, I see something blue",
+          "pt": "Azul, eu vejo algo azul"
+        },
+        {
+          "en": "Blue, blue, blue, blue",
+          "pt": "Azul, azul, azul, azul"
+        },
+        {
           "en": "I see something blue",
           "pt": "Eu vejo algo azul"
         },
         {
-          "en": "Do you? Do you?",
-          "pt": "Você vê? Você vê?"
-        },
-        {
-          "en": "I see something blue",
-          "pt": "Eu vejo algo azul"
-        },
-        {
-          "en": "What is it? What is it?",
-          "pt": "O que é? O que é?"
+          "en": "Find something blue!",
+          "pt": "Encontre algo azul!"
         }
       ],
       "vocab": [
-        {
-          "emoji": "👀",
-          "en": "I see",
-          "pt": "eu vejo"
-        },
         {
           "emoji": "🔵",
           "en": "blue",
           "pt": "azul"
         },
         {
-          "emoji": "❓",
-          "en": "what",
-          "pt": "o que"
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔎",
+          "en": "find",
+          "pt": "encontrar"
         },
         {
           "emoji": "🤔",
@@ -352,37 +420,41 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5GrHtc4Ezue3bevg2iyvph?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
+          "en": "Pink, I see something pink",
+          "pt": "Rosa, eu vejo algo rosa"
+        },
+        {
+          "en": "Pink, I see something pink",
+          "pt": "Rosa, eu vejo algo rosa"
+        },
+        {
+          "en": "Pink, pink, pink, pink",
+          "pt": "Rosa, rosa, rosa, rosa"
+        },
+        {
           "en": "I see something pink",
           "pt": "Eu vejo algo rosa"
         },
         {
-          "en": "Do you? Do you?",
-          "pt": "Você vê? Você vê?"
-        },
-        {
-          "en": "I see something pink",
-          "pt": "Eu vejo algo rosa"
-        },
-        {
-          "en": "What is it? What is it?",
-          "pt": "O que é? O que é?"
+          "en": "Find something pink!",
+          "pt": "Encontre algo rosa!"
         }
       ],
       "vocab": [
-        {
-          "emoji": "👀",
-          "en": "I see",
-          "pt": "eu vejo"
-        },
         {
           "emoji": "🌸",
           "en": "pink",
           "pt": "rosa"
         },
         {
-          "emoji": "❓",
-          "en": "what",
-          "pt": "o que"
+          "emoji": "👀",
+          "en": "I see",
+          "pt": "eu vejo"
+        },
+        {
+          "emoji": "🔎",
+          "en": "find",
+          "pt": "encontrar"
         },
         {
           "emoji": "🤔",
@@ -451,7 +523,7 @@
         },
         {
           "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, jacaré"
+          "pt": "Daqui a pouco, crocodilo"
         },
         {
           "en": "See you later, alligator",
@@ -459,7 +531,7 @@
         },
         {
           "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, jacaré"
+          "pt": "Daqui a pouco, crocodilo"
         }
       ],
       "vocab": [
@@ -493,20 +565,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3vsJNfedXEL21cFAdIGGkf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Red and yellow make orange",
-          "pt": "Vermelho e amarelo fazem laranja"
+          "en": "Take some blue, take some yellow",
+          "pt": "Pegue um pouco de azul, pegue um pouco de amarelo"
         },
         {
-          "en": "Blue and yellow make green",
-          "pt": "Azul e amarelo fazem verde"
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
         },
         {
-          "en": "Red and blue make purple",
-          "pt": "Vermelho e azul fazem roxo"
+          "en": "Blue and yellow make green!",
+          "pt": "Azul e amarelo fazem verde!"
         },
         {
-          "en": "What color do you see?",
-          "pt": "Que cor você vê?"
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Take some red, take some yellow",
+          "pt": "Pegue um pouco de vermelho, pegue um pouco de amarelo"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Red and yellow make orange!",
+          "pt": "Vermelho e amarelo fazem laranja!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Take some blue, take some red",
+          "pt": "Pegue um pouco de azul, pegue um pouco de vermelho"
+        },
+        {
+          "en": "Mix them together, what do you get?",
+          "pt": "Misture os dois, o que você ganha?"
+        },
+        {
+          "en": "Blue and red make purple!",
+          "pt": "Azul e vermelho fazem roxo!"
         }
       ],
       "vocab": [
@@ -540,20 +640,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6wBgOuK1eVlGKNEHDdziuN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "How's the weather? It's sunny",
-          "pt": "Como está o tempo? Está ensolarado"
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
         },
         {
-          "en": "How's the weather? It's rainy",
-          "pt": "Como está o tempo? Está chuvoso"
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
         },
         {
-          "en": "How's the weather? It's cloudy",
-          "pt": "Como está o tempo? Está nublado"
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
         },
         {
-          "en": "How's the weather? It's snowy",
-          "pt": "Como está o tempo? Está nevando"
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Is it sunny?",
+          "pt": "Está ensolarado?"
+        },
+        {
+          "en": "Is it rainy?",
+          "pt": "Está chuvoso?"
+        },
+        {
+          "en": "Is it cloudy?",
+          "pt": "Está nublado?"
+        },
+        {
+          "en": "Is it snowy?",
+          "pt": "Está nevando?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside!",
+          "pt": "Vamos olhar lá fora!"
         }
       ],
       "vocab": [
@@ -587,20 +715,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1urVoaX3ogk7f5UIMPReGu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Driving in my car, beep beep beep",
-          "pt": "Dirigindo no meu carro, beep beep beep"
+          "en": "Driving in my car",
+          "pt": "Dirigindo no meu carro"
         },
         {
-          "en": "Driving in my car, beep beep beep",
-          "pt": "Dirigindo no meu carro, beep beep beep"
+          "en": "Vroom, vroom, vroom",
+          "pt": "Vrum, vrum, vrum"
         },
         {
-          "en": "Turn around",
-          "pt": "Vire ao redor"
+          "en": "Driving in my car",
+          "pt": "Dirigindo no meu carro"
         },
         {
-          "en": "Going round and round",
-          "pt": "Girando e girando"
+          "en": "Vroom, vroom, vroom",
+          "pt": "Vrum, vrum, vrum"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Driving very fast",
+          "pt": "Dirigindo bem rápido"
+        },
+        {
+          "en": "Vroom, vroom, vroom",
+          "pt": "Vrum, vrum, vrum"
+        },
+        {
+          "en": "Driving very slow",
+          "pt": "Dirigindo bem devagar"
+        },
+        {
+          "en": "Vroom, vroom, vroom",
+          "pt": "Vrum, vrum, vrum"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "I like driving, driving in my car",
+          "pt": "Eu gosto de dirigir, dirigir no meu carro"
         }
       ],
       "vocab": [
@@ -610,19 +766,19 @@
           "pt": "carro"
         },
         {
-          "emoji": "🔄",
-          "en": "turn around",
-          "pt": "virar"
+          "emoji": "💨",
+          "en": "vroom",
+          "pt": "vrum"
         },
         {
-          "emoji": "📯",
-          "en": "beep",
-          "pt": "bip"
+          "emoji": "⚡",
+          "en": "fast",
+          "pt": "rápido"
         },
         {
-          "emoji": "⭕",
-          "en": "round",
-          "pt": "redondo"
+          "emoji": "🐢",
+          "en": "slow",
+          "pt": "devagar"
         }
       ],
       "tips": "Cante durante os trajetos de carro! Faça movimentos de volante e sons de buzina. Seu filho associará a diversão com os deslocamentos!"
