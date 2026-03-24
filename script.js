@@ -181,7 +181,7 @@ function copyLink() {
 }
 
 function shareWhatsApp() {
-  const text = `${window.location.href}`;
+  const text = `Confira as músicas das aulas de inglês da Academy Christ Realm! 🎵 ${window.location.href}`;
   const encoded = encodeURIComponent(text);
   window.open(`https://wa.me/?text=${encoded}`, '_blank');
 }

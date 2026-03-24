@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>English Songs — Academy Christ Realm</title>
+<title>K3 English Songs — Academy Christ Realm</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -565,35 +565,26 @@ body {
 .song-card:nth-child(4) .song-number { background: linear-gradient(135deg, #3b82f6, #2563eb); }
 .song-card:nth-child(5) .song-number { background: linear-gradient(135deg, #ec4899, #db2777); }
 .song-card:nth-child(6) .song-number { background: linear-gradient(135deg, var(--gold), #b8942f); }
-.song-card:nth-child(7) .song-number { background: linear-gradient(135deg, #ef4444, #dc2626); }
-.song-card:nth-child(8) .song-number { background: linear-gradient(135deg, #06b6d4, #0891b2); }
-.song-card:nth-child(9) .song-number { background: linear-gradient(135deg, #84cc16, #65a30d); }
-.song-card:nth-child(10) .song-number { background: linear-gradient(135deg, #a855f7, #9333ea); }
-.song-card:nth-child(11) .song-number { background: linear-gradient(135deg, #f97316, #ea580c); }
-.song-card:nth-child(12) .song-number { background: linear-gradient(135deg, #14b8a6, #0d9488); }
-.song-card:nth-child(13) .song-number { background: linear-gradient(135deg, #e11d48, #be123c); }
-.song-card:nth-child(14) .song-number { background: linear-gradient(135deg, #6366f1, #4f46e5); }
 </style>
 </head>
-<body data-json="data.json">
+<body>
 
 <!-- HEADER -->
 <div class="header">
   <div class="header-content">
     <div class="logo-container">
-      <img src="" id="logo-img" alt="Academy Christ Realm Logo">
+      <img src="logo-acr.png" alt="Academy Christ Realm Logo">
     </div>
-    <h1>English Songs</h1>
-    <div class="subtitle">Academy Christ Realm</div>
-    <div class="class-badge" id="class-badge"></div>
+    <h1>English Songs 🎵</h1>
+    <div class="class-badge">K3 — Educação Infantil</div>
   </div>
 </div>
 
 <!-- INTRO -->
 <div class="intro">
   <div class="emoji-row">🎵 🎶 🎵</div>
-  <p id="intro-text"></p>
-  <a href="#" target="_blank" id="playlist-link" class="playlist-link">
+  <p>Essas são as músicas que estamos aprendendo nas aulas de inglês! Clique em cada música para ver a letra, tradução e dicas para praticar em casa.</p>
+  <a href="https://open.spotify.com/playlist/58Am0OXhn88HhBgC4FOlQ8" target="_blank" class="playlist-link">
     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
     Abrir Playlist no Spotify
   </a>
@@ -628,6 +619,294 @@ body {
 
 <div class="toast" id="toast"></div>
 
-<script src="script.js"></script>
+<script>
+const data = {
+  "class": "K3",
+  "classLabel": "K3 — Educação Infantil",
+  "schoolName": "Academy Christ Realm",
+  "intro": "Essas são as músicas que estamos aprendendo nas aulas de inglês! Clique em cada música para ver a letra, tradução e dicas para praticar em casa.",
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/58Am0OXhn88HhBgC4FOlQ8",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Hello!",
+      "artist": "Super Simple Songs",
+      "lyrics": [
+        { "en": "Hello, hello, hello, how are you?", "pt": "Olá, olá, olá, como você está?" },
+        { "en": "Hello, hello, hello, how are you?", "pt": "Olá, olá, olá, como você está?" },
+        { "en": "I'm good! I'm great! I'm wonderful!", "pt": "Estou bem! Estou ótimo! Estou maravilhoso!" },
+        { "en": "", "pt": "" },
+        { "en": "Hello, hello, hello, how are you?", "pt": "Olá, olá, olá, como você está?" },
+        { "en": "Hello, hello, hello, how are you?", "pt": "Olá, olá, olá, como você está?" },
+        { "en": "I'm tired. I'm hungry. I'm not so good.", "pt": "Estou cansado. Estou com fome. Não estou muito bem." }
+      ],
+      "vocab": [
+        { "emoji": "👋", "en": "Hello", "pt": "Olá" },
+        { "emoji": "😊", "en": "Good", "pt": "Bem" },
+        { "emoji": "🌟", "en": "Great", "pt": "Ótimo" },
+        { "emoji": "✨", "en": "Wonderful", "pt": "Maravilhoso" },
+        { "emoji": "😴", "en": "Tired", "pt": "Cansado" },
+        { "emoji": "🍽️", "en": "Hungry", "pt": "Com fome" }
+      ],
+      "tips": "Toda manhã, pergunte ao seu filho \"How are you?\" e incentive-o a responder com \"I'm good!\", \"I'm great!\" ou \"I'm wonderful!\". Você também pode dramatizar as emoções — fazer cara de cansado para \"tired\" e esfregar a barriga para \"hungry\"."
+    },
+    {
+      "id": 2,
+      "title": "Hello Song",
+      "artist": "The Kiboomers",
+      "lyrics": [
+        { "en": "Hello, hello, hello, how are you?", "pt": "Olá, olá, olá, como você está?" },
+        { "en": "Hello, hello, hello, how are you?", "pt": "Olá, olá, olá, como você está?" },
+        { "en": "It's so nice to see you.", "pt": "É tão bom te ver." },
+        { "en": "", "pt": "" },
+        { "en": "Goodbye, goodbye, goodbye, see you soon.", "pt": "Adeus, adeus, adeus, até logo." },
+        { "en": "Goodbye, goodbye, goodbye, see you soon.", "pt": "Adeus, adeus, adeus, até logo." },
+        { "en": "I hope you have a wonderful day!", "pt": "Espero que você tenha um dia maravilhoso!" }
+      ],
+      "vocab": [
+        { "emoji": "👋", "en": "Hello", "pt": "Olá" },
+        { "emoji": "👀", "en": "See", "pt": "Ver" },
+        { "emoji": "😊", "en": "Nice", "pt": "Legal/Bom" },
+        { "emoji": "👋", "en": "Goodbye", "pt": "Adeus" },
+        { "emoji": "⏰", "en": "Soon", "pt": "Em breve" },
+        { "emoji": "🤞", "en": "Hope", "pt": "Espero" }
+      ],
+      "tips": "Use esta música como rotina de saudação e despedida. Toda vez que seu filho acordar, cante juntos \"Hello!\" e antes de dormir cante \"Goodbye!\"."
+    },
+    {
+      "id": 3,
+      "title": "Head, Shoulders, Knees & Toes",
+      "artist": "Super Simple Songs",
+      "lyrics": [
+        { "en": "Head, shoulders, knees and toes,", "pt": "Cabeça, ombros, joelhos e dedos dos pés," },
+        { "en": "Knees and toes.", "pt": "Joelhos e dedos dos pés." },
+        { "en": "Head, shoulders, knees and toes,", "pt": "Cabeça, ombros, joelhos e dedos dos pés," },
+        { "en": "", "pt": "" },
+        { "en": "Eyes and ears and mouth and nose.", "pt": "Olhos e orelhas e boca e nariz." }
+      ],
+      "vocab": [
+        { "emoji": "🗣️", "en": "Head", "pt": "Cabeça" },
+        { "emoji": "💪", "en": "Shoulders", "pt": "Ombros" },
+        { "emoji": "🦵", "en": "Knees", "pt": "Joelhos" },
+        { "emoji": "🦶", "en": "Toes", "pt": "Dedos dos pés" },
+        { "emoji": "👀", "en": "Eyes", "pt": "Olhos" },
+        { "emoji": "👂", "en": "Ears", "pt": "Orelhas" }
+      ],
+      "tips": "Aponte para cada parte do corpo enquanto canta. Encorage seu filho a fazer o mesmo e a cantar com você. Você pode fazer movimentos lentos e depois mais rápidos!"
+    },
+    {
+      "id": 4,
+      "title": "One Little Finger",
+      "artist": "Super Simple Songs",
+      "lyrics": [
+        { "en": "One little finger, one little finger, one little finger,", "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno," },
+        { "en": "Tap, tap, tap.", "pt": "Bate, bate, bate." },
+        { "en": "Point up high, point down low.", "pt": "Aponte para o alto, aponte para baixo." },
+        { "en": "Point to the sky, point to the ground.", "pt": "Aponte para o céu, aponte para o chão." },
+        { "en": "", "pt": "" },
+        { "en": "One little finger, one little finger, one little finger,", "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno," },
+        { "en": "Tap, tap, tap.", "pt": "Bate, bate, bate." }
+      ],
+      "vocab": [
+        { "emoji": "🖐️", "en": "Finger", "pt": "Dedo" },
+        { "emoji": "👆", "en": "Point", "pt": "Apontar" },
+        { "emoji": "✋", "en": "Tap", "pt": "Bater" },
+        { "emoji": "🌤️", "en": "Sky", "pt": "Céu" },
+        { "emoji": "🌍", "en": "Ground", "pt": "Chão" },
+        { "emoji": "📍", "en": "Up", "pt": "Para cima" }
+      ],
+      "tips": "Faça os movimentos ao lado de seu filho. Use seus dedos para apontar para cima, para baixo, para o céu e para o chão. Repita a música várias vezes para que seu filho memorize os movimentos."
+    },
+    {
+      "id": 5,
+      "title": "Bye Bye Goodbye",
+      "artist": "Super Simple Songs",
+      "lyrics": [
+        { "en": "Bye bye goodbye, I'm gonna go.", "pt": "Tchau tchau adeus, vou indo." },
+        { "en": "Bye bye goodbye, I'm gonna go.", "pt": "Tchau tchau adeus, vou indo." },
+        { "en": "See you later, I'm gonna go.", "pt": "Até mais tarde, vou indo." },
+        { "en": "", "pt": "" },
+        { "en": "Bye bye goodbye, see you soon.", "pt": "Tchau tchau adeus, até logo." },
+        { "en": "Bye bye goodbye, see you soon.", "pt": "Tchau tchau adeus, até logo." },
+        { "en": "See you later, see you soon!", "pt": "Até mais tarde, até logo!" }
+      ],
+      "vocab": [
+        { "emoji": "👋", "en": "Bye", "pt": "Tchau" },
+        { "emoji": "👋", "en": "Goodbye", "pt": "Adeus" },
+        { "emoji": "🚶", "en": "Go", "pt": "Ir" },
+        { "emoji": "⏰", "en": "See you later", "pt": "Até mais tarde" },
+        { "emoji": "🤞", "en": "Soon", "pt": "Em breve" },
+        { "emoji": "😊", "en": "See you", "pt": "Até logo" }
+      ],
+      "tips": "Acene despedidas enquanto canta com seu filho. Você pode cantá-la quando se despedir dele na escola ou quando alguém está saindo de casa."
+    },
+    {
+      "id": 6,
+      "title": "Jesus Loves Me",
+      "artist": "Super Simple Songs",
+      "lyrics": [
+        { "en": "Jesus loves me, this I know.", "pt": "Jesus me ama, isso eu sei." },
+        { "en": "For the Bible tells me so.", "pt": "Pois a Bíblia me diz assim." },
+        { "en": "Little ones to Him belong.", "pt": "Pequenininhos a Ele pertencem." },
+        { "en": "They are weak, but He is strong.", "pt": "Eles são frágeis, mas Ele é forte." },
+        { "en": "", "pt": "" },
+        { "en": "Jesus loves me, Jesus loves me.", "pt": "Jesus me ama, Jesus me ama." },
+        { "en": "Jesus loves me, yes I know.", "pt": "Jesus me ama, sim, eu sei." }
+      ],
+      "vocab": [
+        { "emoji": "💕", "en": "Love", "pt": "Amor" },
+        { "emoji": "🙏", "en": "Jesus", "pt": "Jesus" },
+        { "emoji": "📖", "en": "Bible", "pt": "Bíblia" },
+        { "emoji": "👶", "en": "Little ones", "pt": "Pequenininhos" },
+        { "emoji": "💪", "en": "Strong", "pt": "Forte" },
+        { "emoji": "✝️", "en": "Know", "pt": "Saber" }
+      ],
+      "tips": "Esta é uma música religiosa que reforça os valores cristãos da escola. Cante com seu filho antes de dormir como uma rotina reconfortante. Você pode também usar a música para conversar sobre Deus e o amor de Jesus."
+    }
+  ]
+};
+
+function renderPage() {
+  const container = document.getElementById('songs-container');
+  container.innerHTML = '';
+
+  data.songs.forEach((song, index) => {
+    const card = document.createElement('div');
+    card.className = 'song-card';
+
+    const header = document.createElement('div');
+    header.className = 'song-header';
+    header.onclick = function() { toggleCard(this); };
+
+    header.innerHTML = `
+      <div class="song-number">${song.id}</div>
+      <div class="song-info">
+        <div class="song-title">${song.title}</div>
+        <div class="song-artist">${song.artist}</div>
+      </div>
+      <div class="song-toggle">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="6 9 12 15 18 9"></polyline>
+        </svg>
+      </div>
+    `;
+
+    const body = document.createElement('div');
+    body.className = 'song-body';
+    const bodyInner = document.createElement('div');
+    bodyInner.className = 'song-body-inner';
+
+    const tabRow = document.createElement('div');
+    tabRow.className = 'tab-row';
+    tabRow.innerHTML = `
+      <button class="tab-btn active" onclick="switchTab(this, 'lyrics')">Letra</button>
+      <button class="tab-btn" onclick="switchTab(this, 'vocab')">Vocabulário</button>
+      <button class="tab-btn" onclick="switchTab(this, 'tips')">Pratique em Casa</button>
+    `;
+
+    const tabContents = document.createElement('div');
+
+    // Lyrics tab
+    const lyricsTab = document.createElement('div');
+    lyricsTab.className = 'tab-content active';
+    lyricsTab.setAttribute('data-tab', 'lyrics');
+    const lyricsBlock = document.createElement('div');
+    lyricsBlock.className = 'lyrics-block';
+
+    song.lyrics.forEach(lyric => {
+      const line = document.createElement('div');
+      line.className = lyric.en === '' ? 'lyric-line lyric-break' : 'lyric-line';
+      if (lyric.en !== '') {
+        line.innerHTML = `<span class="lyric-en">${lyric.en}</span><span class="lyric-pt">${lyric.pt}</span>`;
+      }
+      lyricsBlock.appendChild(line);
+    });
+
+    lyricsTab.appendChild(lyricsBlock);
+    tabContents.appendChild(lyricsTab);
+
+    // Vocab tab
+    const vocabTab = document.createElement('div');
+    vocabTab.className = 'tab-content';
+    vocabTab.setAttribute('data-tab', 'vocab');
+    const vocabGrid = document.createElement('div');
+    vocabGrid.className = 'vocab-grid';
+
+    song.vocab.forEach(vocab => {
+      const item = document.createElement('div');
+      item.className = 'vocab-item';
+      item.innerHTML = `<div class="vocab-emoji">${vocab.emoji}</div><div class="vocab-en">${vocab.en}</div><div class="vocab-pt">${vocab.pt}</div>`;
+      vocabGrid.appendChild(item);
+    });
+
+    vocabTab.appendChild(vocabGrid);
+    tabContents.appendChild(vocabTab);
+
+    // Tips tab
+    const tipsTab = document.createElement('div');
+    tipsTab.className = 'tab-content';
+    tipsTab.setAttribute('data-tab', 'tips');
+    const tipCard = document.createElement('div');
+    tipCard.className = 'tip-card';
+    tipCard.innerHTML = `<div class="tip-title">💡 Dica para os pais</div><div class="tip-text">${song.tips}</div>`;
+    tipsTab.appendChild(tipCard);
+    tabContents.appendChild(tipsTab);
+
+    bodyInner.appendChild(tabRow);
+    bodyInner.appendChild(tabContents);
+    body.appendChild(bodyInner);
+    card.appendChild(header);
+    card.appendChild(body);
+    container.appendChild(card);
+  });
+}
+
+function toggleCard(headerElement) {
+  const card = headerElement.closest('.song-card');
+  card.classList.toggle('open');
+  const body = card.querySelector('.song-body');
+  if (card.classList.contains('open')) {
+    body.style.maxHeight = body.scrollHeight + 'px';
+  } else {
+    body.style.maxHeight = '0px';
+  }
+}
+
+function switchTab(button, tabName) {
+  const card = button.closest('.song-card');
+  card.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+  card.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+  button.classList.add('active');
+  card.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+}
+
+function copyLink() {
+  const link = window.location.href;
+  navigator.clipboard.writeText(link).then(() => {
+    showToast('Link copiado! 🎉');
+    const btn = document.getElementById('share-copy');
+    btn.classList.add('copied');
+    setTimeout(() => btn.classList.remove('copied'), 2000);
+  });
+}
+
+function shareWhatsApp() {
+  const text = `Confira as músicas das aulas de inglês da Academy Christ Realm! 🎵 ${window.location.href}`;
+  const encoded = encodeURIComponent(text);
+  window.open(`https://wa.me/?text=${encoded}`, '_blank');
+}
+
+function showToast(message) {
+  const toast = document.getElementById('toast');
+  toast.textContent = message;
+  toast.classList.add('show');
+  setTimeout(() => toast.classList.remove('show'), 2000);
+}
+
+document.getElementById('share-whatsapp').addEventListener('click', shareWhatsApp);
+document.getElementById('share-copy').addEventListener('click', copyLink);
+
+document.addEventListener('DOMContentLoaded', renderPage);
+</script>
 </body>
 </html>
