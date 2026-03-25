@@ -48,13 +48,14 @@ I'm wonderful!
 **Spotify:** https://open.spotify.com/track/3pN321e9ZpXroyeyovmRtf
 
 ```
-Hello, hello, hello, how are you?
-Hello, hello, hello, how are you?
-It's so nice to see you.
-
-Goodbye, goodbye, goodbye, see you soon.
-Goodbye, goodbye, goodbye, see you soon.
-I hope you have a wonderful day!
+Clap your hands
+Everyone together
+Stamp your feet
+Turn around
+Reach up high
+And bend down low
+It's good to see you hello
+We're friends of Jesus hello
 ```
 
 ---
@@ -84,22 +85,23 @@ Knees and toes.
 **Spotify:** https://open.spotify.com/track/4jKlouPlVZOkuRwyBpgLPN
 
 ```
-One little finger, one little finger, one little finger,
-Tap, tap, tap.
-Point up high, point down low.
-Point to the sky, point to the ground.
+One little finger, one little finger, one little finger.
+Tap tap tap.
+Point your finger up.
+Point your finger down.
+Put it on your head. Head!
 
-One little finger, one little finger, one little finger,
-Tap, tap, tap.
-Put it on your head. Head.
-Put it on your shoulders. Shoulders.
-Put it on your knees. Knees.
-Put it on your feet. Feet.
+One little finger, one little finger, one little finger.
+Tap tap tap.
+Point your finger up.
+Point your finger down.
+Put it on your nose. Nose!
 
-One little finger, one little finger, one little finger,
-Tap, tap, tap.
-Point up high, point down low.
-Put it away.
+One little finger, one little finger, one little finger.
+Tap tap tap.
+Point your finger up.
+Point your finger down.
+Put it on your chin. Chin!
 ```
 
 ---
@@ -114,17 +116,14 @@ Bye, bye, goodbye
 Bye, bye, bye, bye, goodbye
 I can clap my hands
 I can stamp my feet
-
-Bye, bye, goodbye
-Bye, bye, bye, bye, goodbye
-I can turn around
-I can touch my knees
-
-Bye, bye, goodbye
-Bye, bye, bye, bye, goodbye
 I can clap my hands
 I can stamp my feet
 
+Bye, bye, goodbye
+Bye, bye, bye, bye, goodbye
+
+Bye, bye, goodbye
+Bye, bye, bye, bye, goodbye
 Goodbye!
 ```
 
@@ -136,25 +135,35 @@ Goodbye!
 **Spotify:** https://open.spotify.com/track/4uFndojGmzFdSorhvvH7B4
 
 ```
-Jesus loves me, this I know
-For the Bible tells me so
-Little ones to Him belong
-They are weak, but He is strong
+Jesus loves me this I know
+For the bible tells me so
+Little ones to him belong
+They are weak but he is strong
 
+Yes, Jesus loves me!
+Yes, Jesus loves me!
 Yes, Jesus loves me
-Yes, Jesus loves me
-Yes, Jesus loves me
-The Bible tells me so
+The bible tells me so!
 
-Jesus loves me, He who died
-Heaven's gates to open wide
-He will wash away my sin
-Let His little child come in
+Jesus loves me still today
+Walking with me on my way
+Wanting as a friend to give
+Light and love to all who live
 
+Yes, Jesus loves me!
+Yes, Jesus loves me!
 Yes, Jesus loves me
-Yes, Jesus loves me
-Yes, Jesus loves me
-The Bible tells me so
+The bible tells me so!
+
+Jesus loves me he will stay
+Close besides me all the way
+Thou has bled and died for me
+I will henceforth live for thee
+
+Yes, Jesus loves me!
+Yes, Jesus loves me!
+Yes Jesus loves me
+The bible tells me so!
 ```
 
 ---
@@ -165,24 +174,13 @@ The Bible tells me so
 **Spotify:** https://open.spotify.com/track/58v4Hy6GOfETyJbz2lCwKV
 
 ```
-See you later, alligator
-In a while, crocodile
-See you later, alligator
-In a while, crocodile
-
-Toodle-oo, kangaroo
-Toodle-oo, kangaroo
-
-See you later, alligator
-In a while, crocodile
-See you later, alligator
-In a while, crocodile
-
-Bye bye, butterfly
-Bye bye, butterfly
-
-See you later, alligator
-In a while, crocodile
+Goodbye, goodbye.
+It's time to go.
+Goodbye, goodbye.
+I don't want to go.
+See you later, alligator.
+Bye bye bye, butterfly.
+Goodbye!
 ```
 
 ---
@@ -193,25 +191,20 @@ In a while, crocodile
 **Spotify:** https://open.spotify.com/track/3S50coF3ggnWIOjh9qryOW
 
 ```
-Monday, Tuesday, Wednesday, Thursday, Friday
-Saturday and Sunday
+Hi kids
+Here's a fun song to help you learn the days of the week
+Mother hen is going to sing it for us. Let's listen!
 
-Seven days, seven days
-Seven days a week
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+The days of the week
 
-Monday is the first day
-Tuesday is the second day
-Wednesday is the third day
-Thursday is the fourth day
-Friday is the fifth day
-Saturday is the sixth day
-Sunday is the seventh day
+(Now, repeat after mother hen, here we go!)
+(Great job! Now, let's sing it quietly)
+(Well done! Now, let's try it really loud!)
+(Fantastic! Now, let's sing it really fast!)
 
-Monday, Tuesday, Wednesday, Thursday, Friday
-Saturday and Sunday
-
-Seven days, seven days
-Seven days a week
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+The days of the week
 ```
 
 ---
@@ -226,25 +219,32 @@ How's the weather?
 How's the weather?
 How's the weather today?
 
-Is it sunny?
-Is it rainy?
-Is it cloudy?
-Is it snowy?
+Is it sunny? Is it rainy?
+Is it cloudy? Is it snowy?
 How's the weather today?
 
-Let's look outside!
+Let's look outside
+How's the weather?
+Is it sunny today?
 
-It's sunny! It's sunny!
-It's sunny today!
+Let's look outside
+How's the weather?
+Is it rainy today?
 
-It's rainy! It's rainy!
-It's rainy today!
+Let's look outside
+How's the weather?
+Is it cloudy today?
 
-It's cloudy! It's cloudy!
-It's cloudy today!
+Let's look outside
+Is it snowy today?
 
-It's snowy! It's snowy!
-It's snowy today!
+How's the weather?
+How's the weather?
+How's the weather today?
+
+Is it sunny? Is it rainy?
+Is it cloudy? Is it snowy?
+How's the weather today?
 ```
 
 ---
@@ -255,25 +255,23 @@ It's snowy today!
 **Spotify:** https://open.spotify.com/track/6jNrjFCd9h9jBdGomb7LRN
 
 ```
-Open, shut them, open, shut them
-Give a little clap, clap, clap
-Open, shut them, open, shut them
-Put them in your lap, lap, lap
+Open shut them, open shut them.
+Give a little clap, clap, clap.
+Open shut them, open shut them.
+Put them in your lap, lap, lap.
 
-Creep them, creep them, creep them, creep them
-Right up to your chin, chin, chin
-Open wide your little mouth
-But do not let them in!
+Big and small. Big and small. Big and small.
+Big, big, big, big. Small, small, small.
+Big and small. Big and small.
+Big, big, big, big. Small, small, small.
 
-Open, shut them, open, shut them
-Give a little clap, clap, clap
-Open, shut them, open, shut them
-Put them in your lap, lap, lap
-
-Big and small, big and small
-Big, big, big, big, small, small, small
-Big and small, big and small
-Big, big, big, big, small, small, small
+Please. No, thank you.
+Please. No, thank you.
+Please. No, thank you.
+Please, please, please, please. No, thank you.
+Please. No, thank you.
+Please. No, thank you.
+Please, please, please, please. No, thank you.
 ```
 
 ---
@@ -284,19 +282,19 @@ Big, big, big, big, small, small, small
 **Spotify:** https://open.spotify.com/track/3N6kzbnfpTPB5J9NAGc1rU
 
 ```
-Twinkle, twinkle, little star,
-How I wonder what you are.
-Up above the world so high,
-Like a diamond in the sky.
-Twinkle, twinkle, little star,
-How I wonder what you are.
+Twinkle, twinkle little star
+How I wonder what you are
+Up above the world so high
+Like a diamond in the sky
+Twinkle, twinkle little star
+How I wonder what you are
 
-When the blazing sun is gone,
-When he nothing shines upon,
-Then you show your little light,
-Twinkle, twinkle, all the night.
-Twinkle, twinkle, little star,
-How I wonder what you are.
+Twinkle, twinkle little star
+How I wonder what you are
+Up above the world so high
+Like a diamond in the sky
+Twinkle, twinkle little star
+How I wonder what you are
 ```
 
 ---
@@ -309,17 +307,35 @@ How I wonder what you are.
 ```
 One, two, three, four, five, six, seven.
 One, two, three, four, five, six, seven.
+One, two, three.
+One, two, three.
+One, two, three, four, five, six, seven.
+
+One, two, three, four, five, six, seven.
+One, two, three, four, five, six, seven.
+One, two, three.
+One, two, three.
+One, two, three, four, five, six, seven.
+One, two, three.
+One, two, three.
+One, two, three, four, five, six, seven.
+
+(Now let's go backwards, OK?)
 
 Seven, six, five, four, three, two, one.
 Seven, six, five, four, three, two, one.
+Seven, six, five.
+Seven, six, five.
+Seven, six, five, four, three, two, one.
 
-One, two, three!
-One, two, three, four, five!
-One, two, three, four, five, six, seven!
-
-Seven, six, five!
-Seven, six, five, four, three!
-Seven, six, five, four, three, two, one!
+Seven, six, five, four, three, two, one.
+Seven, six, five, four, three, two, one.
+Seven, six, five.
+Seven, six, five.
+Seven, six, five, four, three, two, one.
+Seven, six, five.
+Seven, six, five.
+Seven, six, five, four, three, two, one.
 ```
 
 ---
@@ -330,25 +346,18 @@ Seven, six, five, four, three, two, one!
 **Spotify:** https://open.spotify.com/track/1vdIChEmEuPb5GbY19b0Hu
 
 ```
-Red, yellow, blue, green, purple, orange
-Rainbow colors in the sky
-Red, yellow, blue, green, purple, orange
-What a beautiful sight!
+Red
+Orange
+Yellow
+Green
+Blue
+Purple
+Pink
 
-It's a rainbow, it's a rainbow
-It's a rainbow in the sky
-It's a rainbow, it's a rainbow
-What a beautiful sight!
-
-Red, yellow, blue, green, purple, orange
-Rainbow colors in the sky
-Red, yellow, blue, green, purple, orange
-What a beautiful sight!
-
-It's a rainbow, it's a rainbow
-It's a rainbow in the sky
-It's a rainbow, it's a rainbow
-What a beautiful sight!
+It's a rainbow. It's a rainbow.
+A beautiful rainbow in the sky.
+It's a rainbow. It's a rainbow.
+A beautiful rainbow in the sky.
 ```
 
 ---
@@ -359,22 +368,28 @@ What a beautiful sight!
 **Spotify:** https://open.spotify.com/track/3gY9yDMADlMzP2VRGXCXtg
 
 ```
-I see something blue
-Blue, I see something blue
-Find something blue
-Find, find, find something blue
+Blue! I see something blue.
+Blue! I see something blue.
+Blue, blue, blue, blue… I see something blue.
+Find something blue!
 
-I see something blue
-Blue, I see something blue
-Find something blue
-Find, find, find something blue
+Yellow! I see something yellow.
+Yellow! I see something yellow.
+Yellow, yellow… I see something yellow.
+Find something yellow!
 
-(Find the blue object!)
+Red! I see something red.
+Red! I see something red.
+Red, red, red, red… I see something red.
+Find something red!
 
-I see something blue
-Blue, I see something blue
-Find something blue
-Find, find, find something blue
+Purple! I see something purple.
+Purple! I see something purple.
+Purple, purple… I see something purple.
+Find something purple!
+
+Blue. Yellow. Red. Purple.
+I see colors everywhere.
 ```
 
 ---
@@ -385,22 +400,28 @@ Find, find, find something blue
 **Spotify:** https://open.spotify.com/track/5GrHtc4Ezue3bevg2iyvph
 
 ```
-I see something pink
-Pink, I see something pink
-Find something pink
-Find, find, find something pink
+Pink! I see something pink.
+Pink! I see something pink.
+Pink, pink, pink, pink… I see something pink.
+Find something pink!
 
-I see something pink
-Pink, I see something pink
-Find something pink
-Find, find, find something pink
+Orange! I see something orange.
+Orange! I see something orange.
+Orange, orange… I see something orange.
+Find something orange!
 
-(Find the pink object!)
+Brown! I see something brown.
+Brown! I see something brown.
+Brown, brown, brown, brown… I see something brown.
+Find something brown!
 
-I see something pink
-Pink, I see something pink
-Find something pink
-Find, find, find something pink
+Green! I see something green.
+Green! I see something green.
+Green, green, green, green… I see something green.
+Find something green!
+
+Pink. Orange. Brown. Green.
+I see colors everywhere.
 ```
 
 ---
@@ -415,16 +436,6 @@ Row, row, row your boat
 Gently down the stream
 Merrily, merrily, merrily, merrily
 Life is but a dream
-
-Row, row, row your boat
-Gently down the stream
-If you see a crocodile
-Don't forget to scream!
-
-Row, row, row your boat
-Gently down the stream
-Merrily, merrily, merrily, merrily
-Life is but a dream
 ```
 
 ---
@@ -435,20 +446,20 @@ Life is but a dream
 **Spotify:** https://open.spotify.com/track/3vsJNfedXEL21cFAdIGGkf
 
 ```
-Blue and yellow, blue and yellow
-Mix them up and what do you get?
-Green! Green! Green!
-Blue and yellow make green!
+Take some blue.
+Take some yellow.
+Mix them together, what do you get?
+Blue and yellow make green.
 
-Red and yellow, red and yellow
-Mix them up and what do you get?
-Orange! Orange! Orange!
-Red and yellow make orange!
+Take some red.
+Take some yellow.
+Mix them together, what do you get?
+Red and yellow make orange.
 
-Blue and red, blue and red
-Mix them up and what do you get?
-Purple! Purple! Purple!
-Blue and red make purple!
+Take some blue.
+Take some red.
+Mix them together, what do you get?
+Blue and red make purple.
 ```
 
 ---
@@ -459,25 +470,17 @@ Blue and red make purple!
 **Spotify:** https://open.spotify.com/track/1urVoaX3ogk7f5UIMPReGu
 
 ```
-Driving in my car
-Vroom, vroom, vroom
-Driving in my car
-Vroom, vroom, vroom
+Driving in my car. Vroom vroom vroom.
+Driving in my car. Vroom vroom vroom.
+Driving very fast. Vroom vroom vroom.
+Driving very slow. Vroom vroom vroom.
+I like driving, driving in my car.
 
-Driving very fast
-Vroom, vroom, vroom
-Driving very fast
-Vroom, vroom, vroom
-
-Driving very slow
-Vroom, vroom, vroom
-Driving very slow
-Vroom, vroom, vroom
-
-I like driving in my car
-Vroom, vroom, vroom
-I like driving in my car
-Vroom, vroom, vroom
+Riding on my bike. Pedal pedal pedal.
+Riding on my bike. Pedal pedal pedal.
+Riding very fast. Pedal pedal pedal.
+Riding very slow. Pedal pedal pedal.
+I like riding, riding on my bike.
 ```
 
 ---
@@ -491,27 +494,37 @@ Vroom, vroom, vroom
 The wheels on the bus go round and round
 Round and round, round and round
 The wheels on the bus go round and round
-All through the town
+Round and round
+
+The door on the bus goes open and shut
+Open and shut, open and shut
+The door on the bus goes open and shut
+Open and shut
 
 The wipers on the bus go swish, swish, swish
 Swish, swish, swish, swish, swish, swish
 The wipers on the bus go swish, swish, swish
-All through the town
+Swish, swish, swish
 
 The horn on the bus goes beep, beep, beep
 Beep, beep, beep, beep, beep, beep
 The horn on the bus goes beep, beep, beep
-All through the town
+Beep, beep, beep
 
-The children on the bus go up and down
+The people on the bus go up and down
 Up and down, up and down
-The children on the bus go up and down
-All through the town
+The people on the bus go up and down
+Up and down
 
-The mommies on the bus go shh, shh, shh
-Shh, shh, shh, shh, shh, shh
-The mommies on the bus go shh, shh, shh
-All through the town
+The babies on the bus go wah, wah, wah
+Wah, wah, wah, wah, wah, wah
+The babies on the bus go wah, wah, wah
+Wah, wah, wah
+
+The mommies on the bus go shh shh shh
+Shh shh shh, shh shh shh
+The daddies on the bus go shh shh shh
+Shh shh shh
 ```
 
 ---
@@ -522,35 +535,21 @@ All through the town
 **Spotify:** https://open.spotify.com/track/13djQrzek1niBvXFImpeo3
 
 ```
-I can hear with my ears
-Hear, hear, hear with my ears
-I can hear with my ears
-La la la la la
+I can hear with my ears.
+I can see with my eyes.
+I can taste with my mouth.
+I can smell with my nose.
+I can touch with my hands.
+Yes, I can.
+And I can feel with my heart.
 
-I can see with my eyes
-See, see, see with my eyes
-I can see with my eyes
-La la la la la
-
-I can taste with my mouth
-Taste, taste, taste with my mouth
-I can taste with my mouth
-La la la la la
-
-I can smell with my nose
-Smell, smell, smell with my nose
-I can smell with my nose
-La la la la la
-
-I can touch with my hands
-Touch, touch, touch with my hands
-I can touch with my hands
-La la la la la
-
-I can love with my heart
-Love, love, love with my heart
-I can love with my heart
-La la la la la
+Hear with my ears.
+See with my eyes.
+Taste with my mouth.
+Smell with my nose.
+Touch with my hands.
+And feel with my heart.
+The most important part.
 ```
 
 ---
