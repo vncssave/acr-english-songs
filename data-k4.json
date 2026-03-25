@@ -88,20 +88,36 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3pN321e9ZpXroyeyovmRtf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Hello, hello, hello, hello",
-          "pt": "Olá, olá, olá, olá"
+          "en": "Clap your hands",
+          "pt": "Bata palmas"
         },
         {
-          "en": "How do you do?",
-          "pt": "Como vai você?"
+          "en": "Everyone together",
+          "pt": "Todos juntos"
         },
         {
-          "en": "Hello, hello, hello, hello",
-          "pt": "Olá, olá, olá, olá"
+          "en": "Stamp your feet",
+          "pt": "Bata os pés"
         },
         {
-          "en": "Nice to meet you!",
-          "pt": "Prazer em conhecê-lo!"
+          "en": "Turn around",
+          "pt": "Dê uma volta"
+        },
+        {
+          "en": "Reach up high",
+          "pt": "Estique para cima"
+        },
+        {
+          "en": "And bend down low",
+          "pt": "E abaixe"
+        },
+        {
+          "en": "It's good to see you hello",
+          "pt": "Que bom te ver, olá"
+        },
+        {
+          "en": "We're friends of Jesus hello",
+          "pt": "Somos amigos de Jesus, olá"
         }
       ],
       "vocab": [
@@ -135,20 +151,72 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4jKlouPlVZOkuRwyBpgLPN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "One little finger, one little finger, one little finger",
-          "pt": "Um dedinho, um dedinho, um dedinho"
+          "en": "One little finger, one little finger, one little finger.",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno."
         },
         {
-          "en": "Point it up high, point it up high, point it up high",
-          "pt": "Aponte para cima, aponte para cima, aponte para cima"
+          "en": "Tap tap tap.",
+          "pt": "Bate, bate, bate."
         },
         {
-          "en": "One little finger, one little finger, one little finger",
-          "pt": "Um dedinho, um dedinho, um dedinho"
+          "en": "Point your finger up.",
+          "pt": "Aponte seu dedo para cima."
         },
         {
-          "en": "Put it on your nose",
-          "pt": "Coloque no seu nariz"
+          "en": "Point your finger down.",
+          "pt": "Aponte seu dedo para baixo."
+        },
+        {
+          "en": "Put it on your head. Head!",
+          "pt": "Coloque na sua cabeça. Cabeça!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "One little finger, one little finger, one little finger.",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno."
+        },
+        {
+          "en": "Tap tap tap.",
+          "pt": "Bate, bate, bate."
+        },
+        {
+          "en": "Point your finger up.",
+          "pt": "Aponte seu dedo para cima."
+        },
+        {
+          "en": "Point your finger down.",
+          "pt": "Aponte seu dedo para baixo."
+        },
+        {
+          "en": "Put it on your nose. Nose!",
+          "pt": "Coloque no seu nariz. Nariz!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "One little finger, one little finger, one little finger.",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno."
+        },
+        {
+          "en": "Tap tap tap.",
+          "pt": "Bate, bate, bate."
+        },
+        {
+          "en": "Point your finger up.",
+          "pt": "Aponte seu dedo para cima."
+        },
+        {
+          "en": "Point your finger down.",
+          "pt": "Aponte seu dedo para baixo."
+        },
+        {
+          "en": "Put it on your chin. Chin!",
+          "pt": "Coloque no seu queixo. Queixo!"
         }
       ],
       "vocab": [
@@ -198,6 +266,26 @@
           "pt": "Eu consigo bater os pés"
         },
         {
+          "en": "I can clap my hands",
+          "pt": "Eu consigo bater palmas"
+        },
+        {
+          "en": "I can stamp my feet",
+          "pt": "Eu consigo bater os pés"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
+        },
+        {
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
+        },
+        {
           "en": "",
           "pt": ""
         },
@@ -245,19 +333,19 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Jesus loves me, this I know",
+          "en": "Jesus loves me this I know",
           "pt": "Jesus me ama, isso eu sei"
         },
         {
-          "en": "For the Bible tells me so",
+          "en": "For the bible tells me so",
           "pt": "Pois a Bíblia me diz assim"
         },
         {
-          "en": "Little ones to Him belong",
+          "en": "Little ones to him belong",
           "pt": "Os pequeninos a Ele pertencem"
         },
         {
-          "en": "They are weak, but He is strong",
+          "en": "They are weak but he is strong",
           "pt": "Eles são fracos, mas Ele é forte"
         },
         {
@@ -265,20 +353,100 @@
           "pt": ""
         },
         {
-          "en": "Yes, Jesus loves me",
-          "pt": "Sim, Jesus me ama"
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
         },
         {
           "en": "Yes, Jesus loves me",
           "pt": "Sim, Jesus me ama"
         },
         {
+          "en": "The bible tells me so!",
+          "pt": "A Bíblia me diz assim!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Jesus loves me still today",
+          "pt": "Jesus ainda me ama hoje"
+        },
+        {
+          "en": "Walking with me on my way",
+          "pt": "Caminhando comigo no meu caminho"
+        },
+        {
+          "en": "Wanting as a friend to give",
+          "pt": "Querendo como amigo dar"
+        },
+        {
+          "en": "Light and love to all who live",
+          "pt": "Luz e amor a todos que vivem"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
           "en": "Yes, Jesus loves me",
           "pt": "Sim, Jesus me ama"
         },
         {
-          "en": "The Bible tells me so",
-          "pt": "A Bíblia me diz assim"
+          "en": "The bible tells me so!",
+          "pt": "A Bíblia me diz assim!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Jesus loves me he will stay",
+          "pt": "Jesus me ama, Ele ficará"
+        },
+        {
+          "en": "Close besides me all the way",
+          "pt": "Perto de mim o tempo todo"
+        },
+        {
+          "en": "Thou has bled and died for me",
+          "pt": "Tu sangraste e morreste por mim"
+        },
+        {
+          "en": "I will henceforth live for thee",
+          "pt": "Daqui em diante viverei para Ti"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "The bible tells me so!",
+          "pt": "A Bíblia me diz assim!"
         }
       ],
       "vocab": [
@@ -312,20 +480,52 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1vdIChEmEuPb5GbY19b0Hu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Red, yellow, blue, green, purple, orange",
-          "pt": "Vermelho, amarelo, azul, verde, roxo, laranja"
+          "en": "Red",
+          "pt": "Vermelho"
         },
         {
-          "en": "Rainbow colors in the sky",
-          "pt": "Cores do arco-íris no céu"
+          "en": "Orange",
+          "pt": "Laranja"
         },
         {
-          "en": "Red, yellow, blue, green, purple, orange",
-          "pt": "Vermelho, amarelo, azul, verde, roxo, laranja"
+          "en": "Yellow",
+          "pt": "Amarelo"
         },
         {
-          "en": "What a beautiful sight!",
-          "pt": "Que vista bonita!"
+          "en": "Green",
+          "pt": "Verde"
+        },
+        {
+          "en": "Blue",
+          "pt": "Azul"
+        },
+        {
+          "en": "Purple",
+          "pt": "Roxo"
+        },
+        {
+          "en": "Pink",
+          "pt": "Rosa"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "It's a rainbow. It's a rainbow.",
+          "pt": "É um arco-íris. É um arco-íris."
+        },
+        {
+          "en": "A beautiful rainbow in the sky.",
+          "pt": "Um lindo arco-íris no céu."
+        },
+        {
+          "en": "It's a rainbow. It's a rainbow.",
+          "pt": "É um arco-íris. É um arco-íris."
+        },
+        {
+          "en": "A beautiful rainbow in the sky.",
+          "pt": "Um lindo arco-íris no céu."
         }
       ],
       "vocab": [
@@ -369,24 +569,92 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3gY9yDMADlMzP2VRGXCXtg?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Blue, I see something blue",
-          "pt": "Azul, eu vejo algo azul"
+          "en": "Blue! I see something blue.",
+          "pt": "Azul! Eu vejo algo azul."
         },
         {
-          "en": "Blue, I see something blue",
-          "pt": "Azul, eu vejo algo azul"
+          "en": "Blue! I see something blue.",
+          "pt": "Azul! Eu vejo algo azul."
         },
         {
-          "en": "Blue, blue, blue, blue",
-          "pt": "Azul, azul, azul, azul"
-        },
-        {
-          "en": "I see something blue",
-          "pt": "Eu vejo algo azul"
+          "en": "Blue, blue, blue, blue… I see something blue.",
+          "pt": "Azul, azul, azul, azul… Eu vejo algo azul."
         },
         {
           "en": "Find something blue!",
           "pt": "Encontre algo azul!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yellow! I see something yellow.",
+          "pt": "Amarelo! Eu vejo algo amarelo."
+        },
+        {
+          "en": "Yellow! I see something yellow.",
+          "pt": "Amarelo! Eu vejo algo amarelo."
+        },
+        {
+          "en": "Yellow, yellow… I see something yellow.",
+          "pt": "Amarelo, amarelo… Eu vejo algo amarelo."
+        },
+        {
+          "en": "Find something yellow!",
+          "pt": "Encontre algo amarelo!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Red! I see something red.",
+          "pt": "Vermelho! Eu vejo algo vermelho."
+        },
+        {
+          "en": "Red! I see something red.",
+          "pt": "Vermelho! Eu vejo algo vermelho."
+        },
+        {
+          "en": "Red, red, red, red… I see something red.",
+          "pt": "Vermelho, vermelho… Eu vejo algo vermelho."
+        },
+        {
+          "en": "Find something red!",
+          "pt": "Encontre algo vermelho!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Purple! I see something purple.",
+          "pt": "Roxo! Eu vejo algo roxo."
+        },
+        {
+          "en": "Purple! I see something purple.",
+          "pt": "Roxo! Eu vejo algo roxo."
+        },
+        {
+          "en": "Purple, purple… I see something purple.",
+          "pt": "Roxo, roxo… Eu vejo algo roxo."
+        },
+        {
+          "en": "Find something purple!",
+          "pt": "Encontre algo roxo!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Blue. Yellow. Red. Purple.",
+          "pt": "Azul. Amarelo. Vermelho. Roxo."
+        },
+        {
+          "en": "I see colors everywhere.",
+          "pt": "Eu vejo cores em todo lugar."
         }
       ],
       "vocab": [
@@ -420,24 +688,92 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5GrHtc4Ezue3bevg2iyvph?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Pink, I see something pink",
-          "pt": "Rosa, eu vejo algo rosa"
+          "en": "Pink! I see something pink.",
+          "pt": "Rosa! Eu vejo algo rosa."
         },
         {
-          "en": "Pink, I see something pink",
-          "pt": "Rosa, eu vejo algo rosa"
+          "en": "Pink! I see something pink.",
+          "pt": "Rosa! Eu vejo algo rosa."
         },
         {
-          "en": "Pink, pink, pink, pink",
-          "pt": "Rosa, rosa, rosa, rosa"
-        },
-        {
-          "en": "I see something pink",
-          "pt": "Eu vejo algo rosa"
+          "en": "Pink, pink, pink, pink… I see something pink.",
+          "pt": "Rosa, rosa, rosa, rosa… Eu vejo algo rosa."
         },
         {
           "en": "Find something pink!",
           "pt": "Encontre algo rosa!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Orange! I see something orange.",
+          "pt": "Laranja! Eu vejo algo laranja."
+        },
+        {
+          "en": "Orange! I see something orange.",
+          "pt": "Laranja! Eu vejo algo laranja."
+        },
+        {
+          "en": "Orange, orange… I see something orange.",
+          "pt": "Laranja, laranja… Eu vejo algo laranja."
+        },
+        {
+          "en": "Find something orange!",
+          "pt": "Encontre algo laranja!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Brown! I see something brown.",
+          "pt": "Marrom! Eu vejo algo marrom."
+        },
+        {
+          "en": "Brown! I see something brown.",
+          "pt": "Marrom! Eu vejo algo marrom."
+        },
+        {
+          "en": "Brown, brown, brown, brown… I see something brown.",
+          "pt": "Marrom, marrom… Eu vejo algo marrom."
+        },
+        {
+          "en": "Find something brown!",
+          "pt": "Encontre algo marrom!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Green! I see something green.",
+          "pt": "Verde! Eu vejo algo verde."
+        },
+        {
+          "en": "Green! I see something green.",
+          "pt": "Verde! Eu vejo algo verde."
+        },
+        {
+          "en": "Green, green, green, green… I see something green.",
+          "pt": "Verde, verde, verde, verde… Eu vejo algo verde."
+        },
+        {
+          "en": "Find something green!",
+          "pt": "Encontre algo verde!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Pink. Orange. Brown. Green.",
+          "pt": "Rosa. Laranja. Marrom. Verde."
+        },
+        {
+          "en": "I see colors everywhere.",
+          "pt": "Eu vejo cores em todo lugar."
         }
       ],
       "vocab": [
@@ -518,20 +854,32 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/58v4Hy6GOfETyJbz2lCwKV?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "See you later, alligator",
-          "pt": "Até logo, jacaré"
+          "en": "Goodbye, goodbye.",
+          "pt": "Adeus, adeus."
         },
         {
-          "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, crocodilo"
+          "en": "It's time to go.",
+          "pt": "É hora de ir."
         },
         {
-          "en": "See you later, alligator",
-          "pt": "Até logo, jacaré"
+          "en": "Goodbye, goodbye.",
+          "pt": "Adeus, adeus."
         },
         {
-          "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, crocodilo"
+          "en": "I don't want to go.",
+          "pt": "Eu não quero ir."
+        },
+        {
+          "en": "See you later, alligator.",
+          "pt": "Até logo, jacaré."
+        },
+        {
+          "en": "Bye bye bye, butterfly.",
+          "pt": "Tchau, tchau, tchau, borboleta."
+        },
+        {
+          "en": "Goodbye!",
+          "pt": "Adeus!"
         }
       ],
       "vocab": [
@@ -565,48 +913,60 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3vsJNfedXEL21cFAdIGGkf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Take some blue, take some yellow",
-          "pt": "Pegue um pouco de azul, pegue um pouco de amarelo"
+          "en": "Take some blue.",
+          "pt": "Pegue um pouco de azul."
+        },
+        {
+          "en": "Take some yellow.",
+          "pt": "Pegue um pouco de amarelo."
         },
         {
           "en": "Mix them together, what do you get?",
-          "pt": "Misture os dois, o que você ganha?"
+          "pt": "Misture tudo, o que você consegue?"
         },
         {
-          "en": "Blue and yellow make green!",
-          "pt": "Azul e amarelo fazem verde!"
+          "en": "Blue and yellow make green.",
+          "pt": "Azul e amarelo fazem verde."
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Take some red, take some yellow",
-          "pt": "Pegue um pouco de vermelho, pegue um pouco de amarelo"
+          "en": "Take some red.",
+          "pt": "Pegue um pouco de vermelho."
+        },
+        {
+          "en": "Take some yellow.",
+          "pt": "Pegue um pouco de amarelo."
         },
         {
           "en": "Mix them together, what do you get?",
-          "pt": "Misture os dois, o que você ganha?"
+          "pt": "Misture tudo, o que você consegue?"
         },
         {
-          "en": "Red and yellow make orange!",
-          "pt": "Vermelho e amarelo fazem laranja!"
+          "en": "Red and yellow make orange.",
+          "pt": "Vermelho e amarelo fazem laranja."
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Take some blue, take some red",
-          "pt": "Pegue um pouco de azul, pegue um pouco de vermelho"
+          "en": "Take some blue.",
+          "pt": "Pegue um pouco de azul."
+        },
+        {
+          "en": "Take some red.",
+          "pt": "Pegue um pouco de vermelho."
         },
         {
           "en": "Mix them together, what do you get?",
-          "pt": "Misture os dois, o que você ganha?"
+          "pt": "Misture tudo, o que você consegue?"
         },
         {
-          "en": "Blue and red make purple!",
-          "pt": "Azul e vermelho fazem roxo!"
+          "en": "Blue and red make purple.",
+          "pt": "Azul e vermelho fazem roxo."
         }
       ],
       "vocab": [
@@ -656,20 +1016,12 @@
           "pt": ""
         },
         {
-          "en": "Is it sunny?",
-          "pt": "Está ensolarado?"
+          "en": "Is it sunny? Is it rainy?",
+          "pt": "Está ensolarado? Está chuvoso?"
         },
         {
-          "en": "Is it rainy?",
-          "pt": "Está chuvoso?"
-        },
-        {
-          "en": "Is it cloudy?",
-          "pt": "Está nublado?"
-        },
-        {
-          "en": "Is it snowy?",
-          "pt": "Está nevando?"
+          "en": "Is it cloudy? Is it snowy?",
+          "pt": "Está nublado? Está nevando?"
         },
         {
           "en": "How's the weather today?",
@@ -680,8 +1032,92 @@
           "pt": ""
         },
         {
-          "en": "Let's look outside!",
-          "pt": "Vamos olhar lá fora!"
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "Is it sunny today?",
+          "pt": "Está ensolarado hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "Is it rainy today?",
+          "pt": "Está chuvoso hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "Is it cloudy today?",
+          "pt": "Está nublado hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "Is it snowy today?",
+          "pt": "Está nevando hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Is it sunny? Is it rainy?",
+          "pt": "Está ensolarado? Está chuvoso?"
+        },
+        {
+          "en": "Is it cloudy? Is it snowy?",
+          "pt": "Está nublado? Está nevando?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
         }
       ],
       "vocab": [
@@ -715,48 +1151,48 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1urVoaX3ogk7f5UIMPReGu?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Driving in my car",
-          "pt": "Dirigindo no meu carro"
+          "en": "Driving in my car. Vroom vroom vroom.",
+          "pt": "Dirigindo no meu carro. Vrum, vrum, vrum."
         },
         {
-          "en": "Vroom, vroom, vroom",
-          "pt": "Vrum, vrum, vrum"
+          "en": "Driving in my car. Vroom vroom vroom.",
+          "pt": "Dirigindo no meu carro. Vrum, vrum, vrum."
         },
         {
-          "en": "Driving in my car",
-          "pt": "Dirigindo no meu carro"
+          "en": "Driving very fast. Vroom vroom vroom.",
+          "pt": "Dirigindo bem rápido. Vrum, vrum, vrum."
         },
         {
-          "en": "Vroom, vroom, vroom",
-          "pt": "Vrum, vrum, vrum"
+          "en": "Driving very slow. Vroom vroom vroom.",
+          "pt": "Dirigindo bem devagar. Vrum, vrum, vrum."
         },
         {
-          "en": "",
-          "pt": ""
-        },
-        {
-          "en": "Driving very fast",
-          "pt": "Dirigindo bem rápido"
-        },
-        {
-          "en": "Vroom, vroom, vroom",
-          "pt": "Vrum, vrum, vrum"
-        },
-        {
-          "en": "Driving very slow",
-          "pt": "Dirigindo bem devagar"
-        },
-        {
-          "en": "Vroom, vroom, vroom",
-          "pt": "Vrum, vrum, vrum"
+          "en": "I like driving, driving in my car.",
+          "pt": "Eu gosto de dirigir, dirigir no meu carro."
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "I like driving, driving in my car",
-          "pt": "Eu gosto de dirigir, dirigir no meu carro"
+          "en": "Riding on my bike. Pedal pedal pedal.",
+          "pt": "Andando de bicicleta. Pedala, pedala, pedala."
+        },
+        {
+          "en": "Riding on my bike. Pedal pedal pedal.",
+          "pt": "Andando de bicicleta. Pedala, pedala, pedala."
+        },
+        {
+          "en": "Riding very fast. Pedal pedal pedal.",
+          "pt": "Andando bem rápido. Pedala, pedala, pedala."
+        },
+        {
+          "en": "Riding very slow. Pedal pedal pedal.",
+          "pt": "Andando bem devagar. Pedala, pedala, pedala."
+        },
+        {
+          "en": "I like riding, riding on my bike.",
+          "pt": "Eu gosto de andar, andar de bicicleta."
         }
       ],
       "vocab": [
@@ -791,19 +1227,135 @@
       "lyrics": [
         {
           "en": "The wheels on the bus go round and round",
-          "pt": "As rodas do ônibus giram e giram"
+          "pt": "As rodas do ônibus giram, giram, giram"
         },
         {
           "en": "Round and round, round and round",
-          "pt": "Giram e giram, giram e giram"
+          "pt": "Giram, giram, giram, giram"
         },
         {
           "en": "The wheels on the bus go round and round",
-          "pt": "As rodas do ônibus giram e giram"
+          "pt": "As rodas do ônibus giram, giram, giram"
         },
         {
-          "en": "All day long",
-          "pt": "O dia todo"
+          "en": "Round and round",
+          "pt": "Giram, giram"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "The door on the bus goes open and shut",
+          "pt": "A porta do ônibus abre e fecha"
+        },
+        {
+          "en": "Open and shut, open and shut",
+          "pt": "Abre e fecha, abre e fecha"
+        },
+        {
+          "en": "The door on the bus goes open and shut",
+          "pt": "A porta do ônibus abre e fecha"
+        },
+        {
+          "en": "Open and shut",
+          "pt": "Abre e fecha"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "The wipers on the bus go swish, swish, swish",
+          "pt": "Os limpadores do ônibus vão swish, swish, swish"
+        },
+        {
+          "en": "Swish, swish, swish, swish, swish, swish",
+          "pt": "Swish, swish, swish, swish, swish, swish"
+        },
+        {
+          "en": "The wipers on the bus go swish, swish, swish",
+          "pt": "Os limpadores do ônibus vão swish, swish, swish"
+        },
+        {
+          "en": "Swish, swish, swish",
+          "pt": "Swish, swish, swish"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "The horn on the bus goes beep, beep, beep",
+          "pt": "A buzina do ônibus vai beep, beep, beep"
+        },
+        {
+          "en": "Beep, beep, beep, beep, beep, beep",
+          "pt": "Beep, beep, beep, beep, beep, beep"
+        },
+        {
+          "en": "The horn on the bus goes beep, beep, beep",
+          "pt": "A buzina do ônibus vai beep, beep, beep"
+        },
+        {
+          "en": "Beep, beep, beep",
+          "pt": "Beep, beep, beep"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "The people on the bus go up and down",
+          "pt": "As pessoas no ônibus sobem e descem"
+        },
+        {
+          "en": "Up and down, up and down",
+          "pt": "Sobem e descem, sobem e descem"
+        },
+        {
+          "en": "The people on the bus go up and down",
+          "pt": "As pessoas no ônibus sobem e descem"
+        },
+        {
+          "en": "Up and down",
+          "pt": "Sobem e descem"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "The babies on the bus go wah, wah, wah",
+          "pt": "Os bebês no ônibus choram, wah, wah, wah"
+        },
+        {
+          "en": "Wah, wah, wah, wah, wah, wah",
+          "pt": "Wah, wah, wah, wah, wah, wah"
+        },
+        {
+          "en": "The babies on the bus go wah, wah, wah",
+          "pt": "Os bebês no ônibus choram, wah, wah, wah"
+        },
+        {
+          "en": "Wah, wah, wah",
+          "pt": "Wah, wah, wah"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "The mommies on the bus go shh shh shh",
+          "pt": "As mamães no ônibus fazem shh, shh, shh"
+        },
+        {
+          "en": "The daddies on the bus go shh shh shh",
+          "pt": "Os papais no ônibus fazem shh, shh, shh"
+        },
+        {
+          "en": "Shh shh shh",
+          "pt": "Shh, shh, shh"
         }
       ],
       "vocab": [

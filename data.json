@@ -98,32 +98,36 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3pN321e9ZpXroyeyovmRtf?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Hello, hello, hello, how are you?",
-          "pt": "Olá, olá, olá, como você está?"
+          "en": "Clap your hands",
+          "pt": "Bata palmas"
         },
         {
-          "en": "Hello, hello, hello, how are you?",
-          "pt": "Olá, olá, olá, como você está?"
+          "en": "Everyone together",
+          "pt": "Todos juntos"
         },
         {
-          "en": "It's so nice to see you.",
-          "pt": "É tão bom te ver."
+          "en": "Stamp your feet",
+          "pt": "Bata os pés"
         },
         {
-          "en": "",
-          "pt": ""
+          "en": "Turn around",
+          "pt": "Dê uma volta"
         },
         {
-          "en": "Goodbye, goodbye, goodbye, see you soon.",
-          "pt": "Adeus, adeus, adeus, até logo."
+          "en": "Reach up high",
+          "pt": "Estique para cima"
         },
         {
-          "en": "Goodbye, goodbye, goodbye, see you soon.",
-          "pt": "Adeus, adeus, adeus, até logo."
+          "en": "And bend down low",
+          "pt": "E abaixe"
         },
         {
-          "en": "I hope you have a wonderful day!",
-          "pt": "Espero que você tenha um dia maravilhoso!"
+          "en": "It's good to see you hello",
+          "pt": "Que bom te ver, olá"
+        },
+        {
+          "en": "We're friends of Jesus hello",
+          "pt": "Somos amigos de Jesus, olá"
         }
       ],
       "vocab": [
@@ -228,32 +232,72 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4jKlouPlVZOkuRwyBpgLPN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "One little finger, one little finger, one little finger,",
-          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno,"
+          "en": "One little finger, one little finger, one little finger.",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno."
         },
         {
-          "en": "Tap, tap, tap.",
+          "en": "Tap tap tap.",
           "pt": "Bate, bate, bate."
         },
         {
-          "en": "Point up high, point down low.",
-          "pt": "Aponte para o alto, aponte para baixo."
+          "en": "Point your finger up.",
+          "pt": "Aponte seu dedo para cima."
         },
         {
-          "en": "Point to the sky, point to the ground.",
-          "pt": "Aponte para o céu, aponte para o chão."
+          "en": "Point your finger down.",
+          "pt": "Aponte seu dedo para baixo."
+        },
+        {
+          "en": "Put it on your head. Head!",
+          "pt": "Coloque na sua cabeça. Cabeça!"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "One little finger, one little finger, one little finger,",
-          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno,"
+          "en": "One little finger, one little finger, one little finger.",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno."
         },
         {
-          "en": "Tap, tap, tap.",
+          "en": "Tap tap tap.",
           "pt": "Bate, bate, bate."
+        },
+        {
+          "en": "Point your finger up.",
+          "pt": "Aponte seu dedo para cima."
+        },
+        {
+          "en": "Point your finger down.",
+          "pt": "Aponte seu dedo para baixo."
+        },
+        {
+          "en": "Put it on your nose. Nose!",
+          "pt": "Coloque no seu nariz. Nariz!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "One little finger, one little finger, one little finger.",
+          "pt": "Um dedo pequeno, um dedo pequeno, um dedo pequeno."
+        },
+        {
+          "en": "Tap tap tap.",
+          "pt": "Bate, bate, bate."
+        },
+        {
+          "en": "Point your finger up.",
+          "pt": "Aponte seu dedo para cima."
+        },
+        {
+          "en": "Point your finger down.",
+          "pt": "Aponte seu dedo para baixo."
+        },
+        {
+          "en": "Put it on your chin. Chin!",
+          "pt": "Coloque no seu queixo. Queixo!"
         }
       ],
       "vocab": [
@@ -313,6 +357,26 @@
           "pt": "Eu consigo bater os pés"
         },
         {
+          "en": "I can clap my hands",
+          "pt": "Eu consigo bater palmas"
+        },
+        {
+          "en": "I can stamp my feet",
+          "pt": "Eu consigo bater os pés"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Bye, bye, goodbye",
+          "pt": "Tchau, tchau, adeus"
+        },
+        {
+          "en": "Bye, bye, bye, bye, goodbye",
+          "pt": "Tchau, tchau, tchau, tchau, adeus"
+        },
+        {
           "en": "",
           "pt": ""
         },
@@ -360,19 +424,19 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uFndojGmzFdSorhvvH7B4?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Jesus loves me, this I know",
+          "en": "Jesus loves me this I know",
           "pt": "Jesus me ama, isso eu sei"
         },
         {
-          "en": "For the Bible tells me so",
+          "en": "For the bible tells me so",
           "pt": "Pois a Bíblia me diz assim"
         },
         {
-          "en": "Little ones to Him belong",
+          "en": "Little ones to him belong",
           "pt": "Os pequeninos a Ele pertencem"
         },
         {
-          "en": "They are weak, but He is strong",
+          "en": "They are weak but he is strong",
           "pt": "Eles são fracos, mas Ele é forte"
         },
         {
@@ -380,20 +444,100 @@
           "pt": ""
         },
         {
-          "en": "Yes, Jesus loves me",
-          "pt": "Sim, Jesus me ama"
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
         },
         {
           "en": "Yes, Jesus loves me",
           "pt": "Sim, Jesus me ama"
         },
         {
+          "en": "The bible tells me so!",
+          "pt": "A Bíblia me diz assim!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Jesus loves me still today",
+          "pt": "Jesus ainda me ama hoje"
+        },
+        {
+          "en": "Walking with me on my way",
+          "pt": "Caminhando comigo no meu caminho"
+        },
+        {
+          "en": "Wanting as a friend to give",
+          "pt": "Querendo como amigo dar"
+        },
+        {
+          "en": "Light and love to all who live",
+          "pt": "Luz e amor a todos que vivem"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
           "en": "Yes, Jesus loves me",
           "pt": "Sim, Jesus me ama"
         },
         {
-          "en": "The Bible tells me so",
-          "pt": "A Bíblia me diz assim"
+          "en": "The bible tells me so!",
+          "pt": "A Bíblia me diz assim!"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Jesus loves me he will stay",
+          "pt": "Jesus me ama, Ele ficará"
+        },
+        {
+          "en": "Close besides me all the way",
+          "pt": "Perto de mim o tempo todo"
+        },
+        {
+          "en": "Thou has bled and died for me",
+          "pt": "Tu sangraste e morreste por mim"
+        },
+        {
+          "en": "I will henceforth live for thee",
+          "pt": "Daqui em diante viverei para Ti"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes, Jesus loves me!",
+          "pt": "Sim, Jesus me ama!"
+        },
+        {
+          "en": "Yes Jesus loves me",
+          "pt": "Sim, Jesus me ama"
+        },
+        {
+          "en": "The bible tells me so!",
+          "pt": "A Bíblia me diz assim!"
         }
       ],
       "vocab": [
@@ -437,20 +581,32 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/58v4Hy6GOfETyJbz2lCwKV?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "See you later, alligator",
-          "pt": "Até logo, jacaré"
+          "en": "Goodbye, goodbye.",
+          "pt": "Adeus, adeus."
         },
         {
-          "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, crocodilo"
+          "en": "It's time to go.",
+          "pt": "É hora de ir."
         },
         {
-          "en": "See you later, alligator",
-          "pt": "Até logo, jacaré"
+          "en": "Goodbye, goodbye.",
+          "pt": "Adeus, adeus."
         },
         {
-          "en": "In a while, crocodile",
-          "pt": "Daqui a pouco, crocodilo"
+          "en": "I don't want to go.",
+          "pt": "Eu não quero ir."
+        },
+        {
+          "en": "See you later, alligator.",
+          "pt": "Até logo, jacaré."
+        },
+        {
+          "en": "Bye bye bye, butterfly.",
+          "pt": "Tchau, tchau, tchau, borboleta."
+        },
+        {
+          "en": "Goodbye!",
+          "pt": "Adeus!"
         }
       ],
       "vocab": [
@@ -485,56 +641,24 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3S50coF3ggnWIOjh9qryOW?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Monday, Tuesday, Wednesday, Thursday, Friday",
-          "pt": "Segunda, terça, quarta, quinta, sexta"
+          "en": "Monday Tuesday Wednesday Thursday Friday Saturday Sunday",
+          "pt": "Segunda terça quarta quinta sexta sábado domingo"
         },
         {
-          "en": "Saturday and Sunday",
-          "pt": "Sábado e domingo"
-        },
-        {
-          "en": "",
-          "pt": ""
-        },
-        {
-          "en": "Seven days, seven days",
-          "pt": "Sete dias, sete dias"
-        },
-        {
-          "en": "Seven days a week",
-          "pt": "Sete dias por semana"
+          "en": "The days of the week",
+          "pt": "Os dias da semana"
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Monday is the first day",
-          "pt": "Segunda é o primeiro dia"
+          "en": "Monday Tuesday Wednesday Thursday Friday Saturday Sunday",
+          "pt": "Segunda terça quarta quinta sexta sábado domingo"
         },
         {
-          "en": "Tuesday is the second day",
-          "pt": "Terça é o segundo dia"
-        },
-        {
-          "en": "Wednesday is the third day",
-          "pt": "Quarta é o terceiro dia"
-        },
-        {
-          "en": "Thursday is the fourth day",
-          "pt": "Quinta é o quarto dia"
-        },
-        {
-          "en": "Friday is the fifth day",
-          "pt": "Sexta é o quinto dia"
-        },
-        {
-          "en": "Saturday is the sixth day",
-          "pt": "Sábado é o sexto dia"
-        },
-        {
-          "en": "Sunday is the seventh day",
-          "pt": "Domingo é o sétimo dia"
+          "en": "The days of the week",
+          "pt": "Os dias da semana"
         }
       ],
       "vocab": [
@@ -584,20 +708,12 @@
           "pt": ""
         },
         {
-          "en": "Is it sunny?",
-          "pt": "Está ensolarado?"
+          "en": "Is it sunny? Is it rainy?",
+          "pt": "Está ensolarado? Está chuvoso?"
         },
         {
-          "en": "Is it rainy?",
-          "pt": "Está chuvoso?"
-        },
-        {
-          "en": "Is it cloudy?",
-          "pt": "Está nublado?"
-        },
-        {
-          "en": "Is it snowy?",
-          "pt": "Está nevando?"
+          "en": "Is it cloudy? Is it snowy?",
+          "pt": "Está nublado? Está nevando?"
         },
         {
           "en": "How's the weather today?",
@@ -608,8 +724,92 @@
           "pt": ""
         },
         {
-          "en": "Let's look outside!",
-          "pt": "Vamos olhar lá fora!"
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "Is it sunny today?",
+          "pt": "Está ensolarado hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "Is it rainy today?",
+          "pt": "Está chuvoso hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "Is it cloudy today?",
+          "pt": "Está nublado hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Let's look outside",
+          "pt": "Vamos olhar lá fora"
+        },
+        {
+          "en": "Is it snowy today?",
+          "pt": "Está nevando hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "How's the weather?",
+          "pt": "Como está o tempo?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Is it sunny? Is it rainy?",
+          "pt": "Está ensolarado? Está chuvoso?"
+        },
+        {
+          "en": "Is it cloudy? Is it snowy?",
+          "pt": "Está nublado? Está nevando?"
+        },
+        {
+          "en": "How's the weather today?",
+          "pt": "Como está o tempo hoje?"
         }
       ],
       "vocab": [
@@ -643,32 +843,56 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6jNrjFCd9h9jBdGomb7LRN?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Open, shut them, open, shut them",
-          "pt": "Abra, feche, abra, feche"
+          "en": "Open shut them, open shut them.",
+          "pt": "Abra, feche, abra, feche."
         },
         {
-          "en": "Give a little clap, clap, clap",
-          "pt": "Dê uma palminha, clap, clap, clap"
+          "en": "Give a little clap, clap, clap.",
+          "pt": "Dê uma palminha, palma, palma."
         },
         {
-          "en": "Open, shut them, open, shut them",
-          "pt": "Abra, feche, abra, feche"
+          "en": "Open shut them, open shut them.",
+          "pt": "Abra, feche, abra, feche."
         },
         {
-          "en": "Put them in your lap, lap, lap",
-          "pt": "Coloque no seu colo, colo, colo"
+          "en": "Put them in your lap, lap, lap.",
+          "pt": "Coloque no seu colo, colo, colo."
         },
         {
           "en": "",
           "pt": ""
         },
         {
-          "en": "Big and small, big and small",
-          "pt": "Grande e pequeno, grande e pequeno"
+          "en": "Big and small. Big and small. Big and small.",
+          "pt": "Grande e pequeno. Grande e pequeno. Grande e pequeno."
         },
         {
-          "en": "Big, big, big, big, small, small, small",
-          "pt": "Grande, grande, grande, grande, pequeno, pequeno, pequeno"
+          "en": "Big, big, big, big. Small, small, small.",
+          "pt": "Grande, grande, grande, grande. Pequeno, pequeno, pequeno."
+        },
+        {
+          "en": "Big and small. Big and small.",
+          "pt": "Grande e pequeno. Grande e pequeno."
+        },
+        {
+          "en": "Big, big, big, big. Small, small, small.",
+          "pt": "Grande, grande, grande, grande. Pequeno, pequeno, pequeno."
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Please. No, thank you.",
+          "pt": "Por favor. Não, obrigado."
+        },
+        {
+          "en": "Please. No, thank you.",
+          "pt": "Por favor. Não, obrigado."
+        },
+        {
+          "en": "Please, please, please, please. No, thank you.",
+          "pt": "Por favor, por favor, por favor, por favor. Não, obrigado."
         }
       ],
       "vocab": [
@@ -712,20 +936,56 @@
       "spotifyEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3N6kzbnfpTPB5J9NAGc1rU?utm_source=generator\" width=\"100%\" height=\"80\" frameBorder=\"0\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
       "lyrics": [
         {
-          "en": "Twinkle, twinkle, little star,",
-          "pt": "Brilha, brilha, estrelinha,"
+          "en": "Twinkle, twinkle little star",
+          "pt": "Brilha, brilha, estrelinha"
         },
         {
-          "en": "How I wonder what you are.",
-          "pt": "Como eu me pergunto o que você é."
+          "en": "How I wonder what you are",
+          "pt": "Como eu me pergunto o que você é"
         },
         {
-          "en": "Up above the world so high,",
-          "pt": "Lá no alto do mundo tão alto,"
+          "en": "Up above the world so high",
+          "pt": "Lá no alto do mundo tão alto"
         },
         {
-          "en": "Like a diamond in the sky.",
-          "pt": "Como um diamante no céu."
+          "en": "Like a diamond in the sky",
+          "pt": "Como um diamante no céu"
+        },
+        {
+          "en": "Twinkle, twinkle little star",
+          "pt": "Brilha, brilha, estrelinha"
+        },
+        {
+          "en": "How I wonder what you are",
+          "pt": "Como eu me pergunto o que você é"
+        },
+        {
+          "en": "",
+          "pt": ""
+        },
+        {
+          "en": "Twinkle, twinkle little star",
+          "pt": "Brilha, brilha, estrelinha"
+        },
+        {
+          "en": "How I wonder what you are",
+          "pt": "Como eu me pergunto o que você é"
+        },
+        {
+          "en": "Up above the world so high",
+          "pt": "Lá no alto do mundo tão alto"
+        },
+        {
+          "en": "Like a diamond in the sky",
+          "pt": "Como um diamante no céu"
+        },
+        {
+          "en": "Twinkle, twinkle little star",
+          "pt": "Brilha, brilha, estrelinha"
+        },
+        {
+          "en": "How I wonder what you are",
+          "pt": "Como eu me pergunto o que você é"
         }
       ],
       "vocab": [
@@ -767,12 +1027,36 @@
           "pt": "Um, dois, três, quatro, cinco, seis, sete."
         },
         {
+          "en": "One, two, three.",
+          "pt": "Um, dois, três."
+        },
+        {
+          "en": "One, two, three.",
+          "pt": "Um, dois, três."
+        },
+        {
+          "en": "One, two, three, four, five, six, seven.",
+          "pt": "Um, dois, três, quatro, cinco, seis, sete."
+        },
+        {
           "en": "",
           "pt": ""
         },
         {
           "en": "Seven, six, five, four, three, two, one.",
           "pt": "Sete, seis, cinco, quatro, três, dois, um."
+        },
+        {
+          "en": "Seven, six, five, four, three, two, one.",
+          "pt": "Sete, seis, cinco, quatro, três, dois, um."
+        },
+        {
+          "en": "Seven, six, five.",
+          "pt": "Sete, seis, cinco."
+        },
+        {
+          "en": "Seven, six, five.",
+          "pt": "Sete, seis, cinco."
         },
         {
           "en": "Seven, six, five, four, three, two, one.",
